@@ -26,7 +26,6 @@ pytest==5.2.1
 python-dateutil==2.8.0
 pytz==2019.3
 requests==2.22.0
--e git+https://github.com/scikit-learn/scikit-learn.git@ff94616e17e90cbc13c2cb8802536bf3893e4d00#egg=scikit_learn
 scipy==1.3.1
 six==1.12.0
 soupsieve==1.9.4
