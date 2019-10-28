@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import fetch_file_names
 
 def check_for_fixed_by(url):
     resp = requests.request("GET", url)
@@ -19,12 +20,17 @@ def check_for_fixed_by(url):
 
 
 if __name__ == "__main__":
-    jsonFile = open('july_issues_closed.json')
+    jsonFile = open('1600-2015-2018-issues-closed.json')
     jsonData = json.load(jsonFile)
-    updatedJsonData = json.load(open('july_issues_closed_with_prs.json'))
+    updatedJsonData = json.load(open('2015-2018-issues-closed-py-patches.json'))
     for i, item in enumerate(jsonData):
-        if(check_for_fixed_by(item['url'][1:-1])):
-            updatedJsonData.append(item)
-        print('index {} done {}'.format(i, item['url']))
-    with open('july_issues_closed_with_prs.json', 'w') as w:
+        if(len(updatedJsonData)<2):
+            pull_url = check_for_fixed_by(item['url'][1:-1])
+            if(pull_url):
+                if(fetch_file_names.get_file_names(pull_url)):
+                    updatedJsonData.append(item)
+            print('index {} done {}, count {}'.format(i, item['url'], len(updatedJsonData)))
+        else:
+            break
+    with open('2015-2018-issues-closed-py-patches.json', 'w') as w:
         json.dump(updatedJsonData, w) 
