@@ -20,9 +20,9 @@ def check_for_fixed_by(url):
 
 
 if __name__ == "__main__":
-    jsonFile = open('1600-2015-2018-issues-closed.json')
+    jsonFile = open('entire_corpus.json')
     jsonData = json.load(jsonFile)
-    updatedJsonData = json.load(open('2015-2018-issues-closed-py-patches.json'))
+    updatedJsonData = json.load(open('entire_corpus_python_patches.json'))
     for i, item in enumerate(jsonData):
         if(len(updatedJsonData)<2):
             pull_url = check_for_fixed_by(item['url'][1:-1])
@@ -32,5 +32,5 @@ if __name__ == "__main__":
             print('index {} done {}, count {}'.format(i, item['url'], len(updatedJsonData)))
         else:
             break
-    with open('2015-2018-issues-closed-py-patches.json', 'w') as w:
+    with open('entire_corpus_python_patches.json', 'w') as w:
         json.dump(updatedJsonData, w) 
