@@ -1,0 +1,400 @@
+"""https://github.com/secdev/scapy/issues/470""",secdev/scapy,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/38038""",ansible/ansible,"['""affects_2.5""', '""aws""', '""bug""', '""cloud""', '""module""', '""support:community""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/38198""",ansible/ansible,"['""affects_2.5""', '""azure""', '""bug""', '""cloud""', '""module""', '""support:certified""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/22315""",ansible/ansible,"['""affects_2.3""', '""bug_report""', '""module""', '""networking""', '""P1""']","""closed""",might be
+"""https://github.com/pypa/warehouse/issues/1536""",pypa/warehouse,"['""bug :bug:""', '""developer experience""', '""documentation""']","""closed""",return type check
+"""https://github.com/WellDone/pymomo/issues/20""",WellDone/pymomo,"['""bug""']","""closed""",is instnace check somewhere
+"""https://github.com/virtool/virtool/issues/296""",virtool/virtool,"['""bug""']","""closed""",no 
+"""https://github.com/dhlab-basel/Knora/issues/375""",dhlab-basel/Knora,"['""bug""', '""enhancement""']","""closed""",no 
+"""https://github.com/PaddlePaddle/Paddle/issues/5395""",PaddlePaddle/Paddle,"['""Bug""']","""closed""",flaot conversion
+"""https://github.com/rlee287/pyautoupdate/issues/2""",rlee287/pyautoupdate,"['""bug""']","""closed""",no 
+"""https://github.com/cprogrammer1994/ModernGL/issues/103""",cprogrammer1994/ModernGL,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/21520""",ansible/ansible,"['""affects_2.3""', '""bug_report""', '""module""', '""networking""']","""closed""",might be
+"""https://github.com/saltstack/salt/issues/20077""",saltstack/salt,"['""Bug""', '""in progress""', '""Medium Severity""', '""Regression""']","""closed""",check fo rmpety
+"""https://github.com/bokeh/bokeh/issues/8415""",bokeh/bokeh,"['""type: bug""']","""closed""",no 
+"""https://github.com/NixOS/nixops/issues/518""",NixOS/nixops,"['""backends/gce""', '""bug""']","""closed""",might be check for none
+"""https://github.com/numenta/nupic/issues/2133""",numenta/nupic,"['""newbie""', '""priority:2""', '""type:bug""', '""type:examples""']","""closed""",no 
+"""https://github.com/liqd/adhocracy3.mercator/issues/1583""",liqd/adhocracy3.mercator,"['""backend""', '""bug""']","""closed""",possible
+"""https://github.com/solvebio/solvebio-python/issues/255""",solvebio/solvebio-python,"['""P1:high""', '""bug""']","""closed""",noi
+"""https://github.com/wradlib/wradlib/issues/25""",wradlib/wradlib,"['""bug""']","""closed""",no 
+"""https://github.com/kwikteam/phy/issues/339""",kwikteam/phy,"['""bug""', '""done""']","""closed""",might be 
+"""https://github.com/saltstack/salt/issues/31393""",saltstack/salt,"['""Bug""', '""Execution Module""', '""High Severity""', '""P3""', '""Platform""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/43821""",ansible/ansible,"['""affects_2.6""', '""bug""', '""cloud""', '""has_pr""', '""module""', '""support:community""', '""vmware""']","""closed""",no 
+"""https://github.com/swcarpentry/amy/issues/526""",swcarpentry/amy,"['""bug""', '""enhancement""']","""closed""",no 
+"""https://github.com/saltstack/salt/issues/37613""",saltstack/salt,"['""Bug""']","""closed""",no 
+"""https://github.com/numba/numba/issues/3119""",numba/numba,"['""bug""']","""closed""",no 
+"""https://github.com/stianjensen/wikipendium.no/issues/323""",stianjensen/wikipendium.no,"['""bug""']","""closed""",no 
+"""https://github.com/s4w3d0ff/python-poloniex/issues/120""",s4w3d0ff/python-poloniex,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/45018""",ansible/ansible,"['""affects_2.7""', '""bug""', '""cloud""', '""deprecated""', '""module""', '""ovirt""', '""support:community""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/18937""",ansible/ansible,"['""affects_2.1""', '""bug_report""', '""module""', '""support:community""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/38549""",ansible/ansible,"['""aci""', '""affects_2.5""', '""bug""', '""module""', '""networking""', '""support:community""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/39863""",ansible/ansible,"['""affects_2.4""', '""bug""', '""needs_triage""', '""support:core""']","""closed""",no 
+"""https://github.com/Cypresslin/UbunTuTuMKII/issues/116""",Cypresslin/UbunTuTuMKII,"['""bug""']","""closed""",no 
+"""https://github.com/bokeh/bokeh/issues/4949""",bokeh/bokeh,"['""type: bug""']","""closed""",might be 
+"""https://github.com/Mikadily/poloniexlendingbot/issues/180""",Mikadily/poloniexlendingbot,"['""Bug""', '""In Progress""', '""Troubleshooting""']","""closed""",check for decimal type 
+"""https://github.com/ansible/ansible/issues/25368""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""c:module_utils/facts""']","""closed""",out can be null 
+"""https://github.com/SethMMorton/natsort/issues/52""",SethMMorton/natsort,"['""bug""']","""closed""",check for decimal  
+"""https://github.com/ansible/ansible/issues/18540""",ansible/ansible,"['""affects_2.2""', '""bug_report""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/27122""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""module""', '""networking""', '""support:core""']","""closed""",attribute error 
+"""https://github.com/ansible/ansible/issues/41392""",ansible/ansible,"['""affects_2.7""', '""bug""', '""python3""', '""support:core""']","""closed""",return type not none 
+"""https://github.com/MCOfficer/EndlessSky-Discord-Bot/issues/101""",MCOfficer/EndlessSky-Discord-Bot,"['""bug""']","""closed""",no 
+"""https://github.com/rarewin/AtomSeeker/issues/8""",rarewin/AtomSeeker,"['""bug""']","""closed""",might be 
+"""https://github.com/ansible/ansible/issues/18684""",ansible/ansible,"['""affects_2.3""', '""bug_report""']","""closed""",check for text 
+"""https://github.com/divio/django-cms/issues/6149""",divio/django-cms,"['""component: alias plugin""', '""kind: bug""', '""status: accepted""']","""closed""",no 
+"""https://github.com/ContinuumIO/blaze/issues/1113""",ContinuumIO/blaze,"['""bug""', '""dask""', '""dependency""']","""closed""",atop paramter type errors 
+"""https://github.com/ansible/ansible/issues/17982""",ansible/ansible,"['""affects_2.2""', '""bug_report""', '""in progress""']","""closed""",no 
+"""https://github.com/esikachev/my-dev-server/issues/24""",esikachev/my-dev-server,"['""bug""', '""priority/P1""']","""closed""",no 
+"""https://github.com/trailofbits/manticore/issues/735""",trailofbits/manticore,"['""bug""', '""ethereum""']","""closed""",check for state type 
+"""https://github.com/ansible/ansible/issues/36014""",ansible/ansible,"['""affects_2.5""', '""bug_report""', '""module""', '""support:core""', '""windows""']","""closed""",check for category names 
+"""https://github.com/ansible/ansible/issues/15649""",ansible/ansible,"['""bug_report""', '""in progress""', '""P2""']","""closed""",possible 
+"""https://github.com/ansible/ansible/issues/27511""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""support:core""']","""closed""",check for type of dname 
+"""https://github.com/androguard/androguard/issues/277""",androguard/androguard,"['""bug""', '""decompiler""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/40273""",ansible/ansible,"['""affects_2.5""', '""bug""', '""cloud""', '""module""', '""support:community""']","""closed""",no 
+"""https://github.com/rtfd/readthedocs.org/issues/1637""",rtfd/readthedocs.org,"['""Bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/34288""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""module""', '""support:community""']","""closed""",see if we can do a check for types
+"""https://github.com/saltstack/salt/issues/22561""",saltstack/salt,"['""Bug""', '""Core""', '""Fixed Pending Verification""', '""High Severity""', '""P3""']","""closed""",no 
+"""https://github.com/EUDAT-B2SHARE/b2share/issues/667""",EUDAT-B2SHARE/b2share,"['""Bug""', '""DONE""']","""closed""",possible 
+"""https://github.com/streamlink/streamlink/issues/318""",streamlink/streamlink,"['""bug""']","""closed""",no 
+"""https://github.com/zyga/guacamole/issues/4""",zyga/guacamole,"['""bug""']","""closed""",no 
+"""https://github.com/tum-ens/urbs/issues/147""",tum-ens/urbs,"['""bug""']","""closed""",check for types of imported or exported 
+"""https://github.com/ganga-devs/ganga/issues/945""",ganga-devs/ganga,"['""bug""', '""Core""']","""closed""","check for this_file, don’t think it exists "
+"""https://github.com/airbnb/streamalert/issues/787""",airbnb/streamalert,"['""bug""', '""rules engine""']","""closed""",iunstance check 
+"""https://github.com/TechEmpower/FrameworkBenchmarks/issues/1600""",TechEmpower/FrameworkBenchmarks,"['""Bug: Toolset""']","""closed""",no 
+"""https://github.com/mypaint/mypaint/issues/86""",mypaint/mypaint,"['""bug""']","""closed""",check for e.type 
+"""https://github.com/ansible/ansible/issues/37387""",ansible/ansible,"['""affects_2.4""', '""bug""', '""module""', '""python3""', '""support:community""']","""closed""",type errors
+"""https://github.com/numpy/numpy/issues/8090""",numpy/numpy,"['""00 - Bug""', '""component: numpy.linalg""']","""closed""",no 
+"""https://github.com/awesto/django-shop/issues/539""",awesto/django-shop,"['""bug""']","""closed""","get template, type "
+"""https://github.com/ansible/ansible/issues/34931""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""support:core""']","""closed""",no 
+"""https://github.com/pandas-dev/pandas/issues/21200""",pandas-dev/pandas,"['""Bug""', '""Difficulty Intermediate""', '""Effort Low""', '""Groupby""']","""closed""","possible, uinderstand group by "
+"""https://github.com/pimutils/khal/issues/490""",pimutils/khal,"['""bug""', '""in progress""']","""closed""",return type check
+"""https://github.com/pandas-dev/pandas/issues/15404""",pandas-dev/pandas,"['""Bug""', '""Difficulty Novice""', '""Effort Low""', '""IO SQL""']","""closed""",check for expectecd index type 
+"""https://github.com/ansible/ansible-modules-core/issues/2186""",ansible/ansible-modules-core,"['""bug_report""', '""core_review""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/39637""",ansible/ansible,"['""affects_2.5""', '""bug""', '""has_pr""', '""module""', '""support:core""']","""closed""",no 
+"""https://github.com/ansible/ansible-modules-extras/issues/2715""",ansible/ansible-modules-extras,"['""bug_report""', '""waiting_on_maintainer""', '""windows""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/22216""",ansible/ansible,"['""affects_2.3""', '""bug_report""', '""networking""', '""P2""']","""closed""",no 
+"""https://github.com/Tribler/tribler/issues/2124""",Tribler/tribler,"['""bug""']","""closed""",no 
+"""https://github.com/Alir3z4/html2text/issues/31""",Alir3z4/html2text,"['""bug""']","""closed""",check for output tyhpe 
+"""https://github.com/mozilla/build-relengapi/issues/281""",mozilla/build-relengapi,"['""goodfirstbug""']","""closed""",no 
+"""https://github.com/beetbox/beets/issues/2260""",beetbox/beets,"['""bitesize""', '""bug""']","""closed""",check for none type query 
+"""https://github.com/ArkaneMoose/BotBot/issues/30""",ArkaneMoose/BotBot,"['""bug""']","""closed""",possilble 
+"""https://github.com/pywinauto/pywinauto/issues/256""",pywinauto/pywinauto,"['""bug""', '""UIA-related""']","""closed""",check for autoid type 
+"""https://github.com/Cadasta/cadasta-platform/issues/946""",Cadasta/cadasta-platform,"['""bug""', '""priority: high""', '""security""']","""closed""",no 
+"""https://github.com/kabirbaidhya/pglistend/issues/9""",kabirbaidhya/pglistend,"['""bug""']","""closed""",python3 checks 
+"""https://github.com/ansible/ansible/issues/36900""",ansible/ansible,"['""affects_2.5""', '""bug""', '""module""', '""support:community""']","""closed""",possible. 
+"""https://github.com/cogniteev/docido-python-sdk/issues/9""",cogniteev/docido-python-sdk,"['""kind/bug""']","""closed""",possible. 
+"""https://github.com/missionpinball/mpf/issues/732""",missionpinball/mpf,"['""bug""']","""closed""",no 
+"""https://github.com/bokeh/bokeh/issues/5629""",bokeh/bokeh,"['""tag: component: server""', '""tag: starter""', '""type: bug""']","""closed""",possible 
+"""https://github.com/astropy/astropy/issues/5520""",astropy/astropy,"['""Affects-dev""', '""Bug""', '""Effort-low""', '""io.fits""', '""Package-novice""']","""closed""",possible 
+"""https://github.com/awesto/django-shop/issues/682""",awesto/django-shop,"['""bug""']","""closed""",check for none  
+"""https://github.com/ansible/ansible/issues/44007""",ansible/ansible,"['""affects_2.7""', '""bug""', '""has_pr""', '""support:core""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/11624""",ansible/ansible,"['""bug_report""', '""P2""']","""closed""",undefined check 
+"""https://github.com/kwikteam/phy/issues/413""",kwikteam/phy,"['""bug""', '""component: cluster-manual""', '""done""']","""closed""",feature improvenemtn 
+"""https://github.com/ansible/ansible-modules-core/issues/2111""",ansible/ansible-modules-core,"['""bug_report""', '""cloud""', '""gce""']","""closed""",no 
+"""https://github.com/micahflee/onionshare/issues/790""",micahflee/onionshare,"['""bug""']","""closed""",no 
+"""https://github.com/MongoEngine/mongoengine/issues/1852""",MongoEngine/mongoengine,"['""Bug""', '""in progress""']","""closed""",no 
+"""https://github.com/KhronosGroup/SPIRV-Cross/issues/545""",KhronosGroup/SPIRV-Cross,"['""bug""']","""closed""",no 
+"""https://github.com/projectatomic/commissaire-http/issues/18""",projectatomic/commissaire-http,"['""bug""']","""closed""",no 
+"""https://github.com/frappe/erpnext/issues/11989""",frappe/erpnext,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/30992""",ansible/ansible,"['""affects_2.5""', '""bug_report""', '""module""', '""networking""', '""nxos""', '""support:network""']","""closed""",possible 
+"""https://github.com/simphony/simphony-mayavi/issues/47""",simphony/simphony-mayavi,"['""bug""']","""closed""",posisble 
+"""https://github.com/dgibbs64/linuxgsm/issues/964""",dgibbs64/linuxgsm,"['""bug""', '""under development""']","""closed""",python3 checks 
+"""https://github.com/ansible/ansible/issues/39830""",ansible/ansible,"['""affects_2.4""', '""bug""', '""has_pr""', '""module""', '""support:community""']","""closed""",no 
+"""https://github.com/jupyter/nbgrader/issues/134""",jupyter/nbgrader,"['""bug""']","""closed""",no 
+"""https://github.com/jupyter/nbgrader/issues/190""",jupyter/nbgrader,"['""bug""']","""closed""",no 
+"""https://github.com/pytest-dev/pytest/issues/3819""",pytest-dev/pytest,"['""plugin: capture""', '""type: bug""']","""closed""",no 
+"""https://github.com/ciudadanointeligente/write-it/issues/1012""",ciudadanointeligente/write-it,"['""4 - Ready""', '""area:admin""', '""type:bug""']","""closed""",no 
+"""https://github.com/andycasey/ads/issues/82""",andycasey/ads,"['""bug""']","""closed""",yes check for field type 
+"""https://github.com/DMSC-Instrument-Data/lewis/issues/243""",DMSC-Instrument-Data/lewis,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/26522""",ansible/ansible,"['""affects_2.3""', '""bug_report""', '""cloud""', '""module""', '""support:community""', '""vmware""']","""closed""",no. 
+"""https://github.com/ultrabug/py3status/issues/241""",ultrabug/py3status,"['""bug""']","""closed""",no 
+"""https://github.com/ensime/ensime-vim/issues/339""",ensime/ensime-vim,"['""bug""', '""In progress""']","""closed""",check for int 
+"""https://github.com/CenterForOpenScience/osf.io/issues/3296""",CenterForOpenScience/osf.io,"['""5 - pending review""', '""bug: production""', '""intern""', '""priority - low""']","""closed""",no 
+"""https://github.com/pytroll/satpy/issues/377""",pytroll/satpy,"['""bug""', '""component:compositors""']","""closed""",check fo rnan 
+"""https://github.com/ansible/ansible/issues/23455""",ansible/ansible,"['""affects_2.2""', '""bug_report""', '""module""', '""windows""']","""closed""",no 
+"""https://github.com/astropy/astropy/issues/7762""",astropy/astropy,"['""Bug""', '""Docs""', '""testing""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/17441""",ansible/ansible,"['""affects_2.2""', '""bug_report""', '""in progress""', '""networking""']","""closed""",no 
+"""https://github.com/choderalab/openpathsampling/issues/222""",choderalab/openpathsampling,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/40668""",ansible/ansible,"['""affects_2.5""', '""aws""', '""bug""', '""cloud""', '""module""', '""support:community""', '""traceback""']","""closed""",check fo rmissing value 
+"""https://github.com/ansible/ansible/issues/11920""",ansible/ansible,"['""bug_report""', '""P3""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/27643""",ansible/ansible,"['""affects_2.3""', '""bug_report""', '""module""', '""needs_triage""', '""support:community""']","""closed""",check for module 
+"""https://github.com/ansible/ansible/issues/22323""",ansible/ansible,"['""affects_2.2""', '""bug_report""']","""closed""",no 
+"""https://github.com/swcarpentry/amy/issues/831""",swcarpentry/amy,"['""bug""']","""closed""",no 
+"""https://github.com/airbnb/streamalert/issues/523""",airbnb/streamalert,"['""bug""', '""cli""', '""terraform""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/9904""",ansible/ansible,"['""affects_2.1""', '""bug_report""', '""in progress""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/19521""",ansible/ansible,"['""affects_2.2""', '""affects_2.3""', '""aws""', '""bug_report""', '""cloud""', '""module""', '""support:core""']","""closed""",no 
+"""https://github.com/chainer/chainer/issues/5347""",chainer/chainer,"['""bug""', '""pr-ongoing""']","""closed""",check for indices type
+"""https://github.com/pymedusa/Medusa/issues/5167""",pymedusa/Medusa,"['""Bug""', '""Confirmed""', '""Fixed""']","""closed""",check for episode type 
+"""https://github.com/strands-project/aaf_deployment/issues/56""",strands-project/aaf_deployment,"['""bug""', '""enhancement""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/36412""",ansible/ansible,"['""affects_2.4""', '""aws""', '""bug_report""', '""cloud""', '""module""', '""support:core""']","""closed""",check for non type module 
+"""https://github.com/radremedy/radremedy/issues/221""",radremedy/radremedy,"['""bug""', '""data management""']","""closed""",check for empty 
+"""https://github.com/LCAS/zoidbot/issues/11""",LCAS/zoidbot,"['""bug""']","""closed""",no 
+"""https://github.com/kumoru/torment/issues/5""",kumoru/torment,"['""bug""', '""enhancement""']","""closed""",no 
+"""https://github.com/pandas-dev/pandas/issues/21426""",pandas-dev/pandas,"['""Algos""', '""Bug""', '""Dtypes""', '""good first issue""']","""closed""",no 
+"""https://github.com/ansible/ansible-container/issues/464""",ansible/ansible-container,"['""bug""']","""closed""",NO 
+"""https://github.com/pandas-dev/pandas/issues/9351""",pandas-dev/pandas,"['""Bug""', '""Difficulty Novice""', '""Effort Low""', '""Visualization""']","""closed""",check for type of kv 
+"""https://github.com/saltstack/salt/issues/47921""",saltstack/salt,"['""Blocker""', '""Bug""', '""Core""', '""Fluorine""', '""High Severity""', '""TEAM Core""', '""team-core""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/23263""",ansible/ansible,"['""affects_2.2""', '""bug_report""', '""c:plugins/action""', '""module""', '""needs_info""', '""networking""', '""support:network""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/43016""",ansible/ansible,"['""affects_2.7""', '""bug""', '""has_pr""', '""python3""', '""support:core""']","""closed""",no 
+"""https://github.com/biocore/qiita/issues/1179""",biocore/qiita,"['""bug""', '""priority: low""', '""quick-fix""']","""closed""",no 
+"""https://github.com/openstenoproject/plover/issues/991""",openstenoproject/plover,"['""bug""', '""windows""']","""closed""",no 
+"""https://github.com/saltstack/salt/issues/25010""",saltstack/salt,"['""Bug""', '""Fixed Pending Verification""', '""High Severity""', '""P2""', '""RIoT""', '""State Module""']","""closed""",no 
+"""https://github.com/andreas-h/emiprep/issues/23""",andreas-h/emiprep,"['""bug""', '""documentation""']","""closed""",no 
+"""https://github.com/andycasey/ads/issues/60""",andycasey/ads,"['""bug""']","""closed""",no 
+"""https://github.com/wal-e/wal-e/issues/322""",wal-e/wal-e,"['""bug""']","""closed""",no 
+"""https://github.com/krmaxwell/maltrieve/issues/141""",krmaxwell/maltrieve,"['""bug""', '""in progress""']","""closed""",check for inputfile 
+"""https://github.com/pybuilder/pybuilder/issues/180""",pybuilder/pybuilder,"['""bug""', '""in progress""']","""closed""",no 
+"""https://github.com/inveniosoftware/invenio-accounts/issues/197""",inveniosoftware/invenio-accounts,"['""Size: easy""', '""Status: in review""', '""Type: bug""']","""closed""",no 
+"""https://github.com/ansible/ansible-modules-core/issues/3978""",ansible/ansible-modules-core,"['""bug_report""', '""cloud""']","""closed""",possible 
+"""https://github.com/home-assistant/home-assistant/issues/15491""",home-assistant/home-assistant,"['""bug""', '""platform: sensor.waze_travel_time""']","""closed""",chcek for add-devices 
+"""https://github.com/capitalone/cloud-custodian/issues/879""",capitalone/cloud-custodian,"['""area/lambda""', '""kind/bug""', '""priority/P1""']","""closed""",no 
+"""https://github.com/beetbox/beets/issues/2592""",beetbox/beets,"['""bitesize""', '""bug""']","""closed""",no 
+"""https://github.com/saltstack/salt/issues/41915""",saltstack/salt,"['""Bug""', '""High Severity""', '""P3""', '""State Module""']","""closed""",no 
+"""https://github.com/KanoComputing/kano-burners/issues/23""",KanoComputing/kano-burners,"['""1 - ToDo""', '""bug""', '""development""', '""Med Prio""']","""closed""",no 
+"""https://github.com/golemfactory/golem/issues/1508""",golemfactory/golem,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/47589""",ansible/ansible,"['""affects_2.7""', '""bug""', '""f5""', '""module""', '""networking""', '""support:certified""', '""support:community""', '""traceback""']","""closed""",no 
+"""https://github.com/pantsbuild/pants/issues/6847""",pantsbuild/pants,"['""bug""', '""flaky-test""', '""in-progress""']","""closed""",possible 
+"""https://github.com/ansible/ansible/issues/33602""",ansible/ansible,"['""affects_2.3""', '""bug_report""', '""cloud""', '""module""', '""support:community""', '""vmware""']","""closed""",no 
+"""https://github.com/inveniosoftware/invenio/issues/1750""",inveniosoftware/invenio,"['""c_WebSearch""', '""master""', '""p_major""', '""t_bug""']","""closed""",no 
+"""https://github.com/astropy/astropy/issues/7435""",astropy/astropy,"['""Affects-release""', '""Bug""', '""Effort-low""', '""Package-novice""', '""Python3""', '""good first issue""', '""io.fits""']","""closed""",check for file instance type 
+"""https://github.com/cherrypy/cherrypy/issues/1404""",cherrypy/cherrypy,"['""CherryPy code""', '""bug""', '""major""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/27978""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""support:core""']","""closed""",check fo rtype 
+"""https://github.com/ansible/ansible/issues/37581""",ansible/ansible,"['""affects_2.5""', '""azure""', '""bug""', '""cloud""', '""module""', '""support:community""']","""closed""",check for tgtope 
+"""https://github.com/google/mobly/issues/89""",google/mobly,"['""bug""']","""closed""",maybe 
+"""https://github.com/ansible/ansible/issues/31713""",ansible/ansible,"['""affects_2.4""', '""bug""', '""module""', '""support:community""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/33455""",ansible/ansible,"['""affects_2.4""', '""azure""', '""bug_report""', '""cloud""', '""module""', '""support:certified""']","""closed""",no 
+"""https://github.com/inveniosoftware/invenio/issues/3311""",inveniosoftware/invenio,"['""c_pages""', '""t_bug""']","""closed""",check fo r type 
+"""https://github.com/ansible/ansible/issues/30393""",ansible/ansible,"['""affects_2.4""', '""azure""', '""bug""', '""cloud""', '""module""', '""support:certified""']","""closed""",no 
+"""https://github.com/pytroll/satpy/issues/491""",pytroll/satpy,"['""bug""', '""component:readers""']","""closed""",no 
+"""https://github.com/ubc/compair/issues/586""",ubc/compair,"['""bug""', '""high priority""']","""closed""",no 
+"""https://github.com/ansible/ansible-modules-core/issues/5372""",ansible/ansible-modules-core,"['""affects_2.2""', '""bug_report""', '""in progress""', '""networking""', '""waiting_on_maintainer""']","""closed""",no 
+"""https://github.com/pybuilder/pybuilder/issues/150""",pybuilder/pybuilder,"['""bug""', '""code-review-required""', '""in progress""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/29196""",ansible/ansible,"['""affects_2.2""', '""bug""', '""has_pr""', '""module""', '""support:community""']","""closed""",no 
+"""https://github.com/liqd/adhocracy3.mercator/issues/632""",liqd/adhocracy3.mercator,"['""backend""', '""bug""', '""high prio""']","""closed""",no 
+"""https://github.com/voc/voctomix/issues/37""",voc/voctomix,"['""bug""', '""voctogui""']","""closed""",no 
+"""https://github.com/geopython/OWSLib/issues/503""",geopython/OWSLib,"['""bug""', '""tests""']","""closed""",no 
+"""https://github.com/TESScience/SPyFFI/issues/9""",TESScience/SPyFFI,"['""bug""']","""closed""",no 
+"""https://github.com/desihub/desitarget/issues/178""",desihub/desitarget,"['""bug""']","""closed""",no 
+"""https://github.com/letsencrypt/letsencrypt/issues/395""",letsencrypt/letsencrypt,"['""bug""']","""closed""",no 
+"""https://github.com/planetlabs/planet-client-python/issues/43""",planetlabs/planet-client-python,"['""bug""']","""closed""",no 
+"""https://github.com/saltstack/salt/issues/24803""",saltstack/salt,"['""Bug""', '""High Severity""', '""P1""', '""Tests""']","""closed""",maybe 
+"""https://github.com/kartoza/geonode/issues/370""",kartoza/geonode,"['""bug""', '""testing""']","""closed""",no 
+"""https://github.com/google/blockly/issues/1444""",google/blockly,"['""affects: develop""', '""component: library blocks""', '""type: bug""']","""closed""",maybe 
+"""https://github.com/bokeh/bokeh/issues/6054""",bokeh/bokeh,"['""type: bug""']","""closed""",check for color type
+"""https://github.com/ganga-devs/ganga/issues/1042""",ganga-devs/ganga,"['""bug""', '""LHCb""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/29164""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""enhancement""', '""module""', '""networking""', '""support:network""']","""closed""",no 
+"""https://github.com/madisonhicks/blob/issues/22""",madisonhicks/blob,"['""bug""']","""closed""",no 
+"""https://github.com/mozilla-services/autopush/issues/768""",mozilla-services/autopush,"['""bug""', '""in progress""', '""p1""']","""closed""",no 
+"""https://github.com/GetStream/stream-django/issues/37""",GetStream/stream-django,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/33237""",ansible/ansible,"['""affects_2.5""', '""bug_report""', '""networking""', '""support:core""']","""closed""",no 
+"""https://github.com/tryolabs/luminoth/issues/231""",tryolabs/luminoth,"['""Type: Bug""']","""closed""",no 
+"""https://github.com/EUDAT-B2SHARE/b2share/issues/482""",EUDAT-B2SHARE/b2share,"['""Bug""', '""Docs""']","""closed""",no 
+"""https://github.com/saltstack/salt/issues/41306""",saltstack/salt,"['""Bug""', '""Windows""']","""closed""",no 
+"""https://github.com/pydata/xarray/issues/1988""",pydata/xarray,"['""backends""', '""bug""']","""closed""",no 
+"""https://github.com/pydata/xarray/issues/2177""",pydata/xarray,"['""bug""']","""closed""",no 
+"""https://github.com/pfnet/chainer/issues/434""",pfnet/chainer,"['""bug""']","""closed""",no 
+"""https://github.com/LLNL/spack/issues/2540""",LLNL/spack,"['""bug""', '""compilers""', '""macOS""', '""mpi""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/41322""",ansible/ansible,"['""affects_2.5""', '""bug""', '""has_pr""', '""module""', '""net_tools""', '""support:core""']","""closed""",no 
+"""https://github.com/miguelgrinberg/Flask-SocketIO/issues/188""",miguelgrinberg/Flask-SocketIO,"['""bug""']","""closed""",check for kwards
+"""https://github.com/voc/voctomix/issues/100""",voc/voctomix,"['""bug""', '""has-pr""', '""voctocore""']","""closed""",no 
+"""https://github.com/catkin/catkin_tools/issues/311""",catkin/catkin_tools,"['""awaiting feedback on fix""', '""bug""']","""closed""",no 
+"""https://github.com/INM-6/h5py_wrapper/issues/80""",INM-6/h5py_wrapper,"['""bug""', '""testsuite""']","""closed""",no 
+"""https://github.com/tomv564/LSP/issues/77""",tomv564/LSP,"['""bug""', '""help wanted""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/45047""",ansible/ansible,"['""affects_2.6""', '""bug""', '""support:core""']","""closed""",no 
+"""https://github.com/beetbox/beets/issues/2972""",beetbox/beets,"['""bug""']","""closed""",no 
+"""https://github.com/LLNL/spack/issues/1815""",LLNL/spack,"['""bug""', '""platform-support""', '""specs""']","""closed""",",aybe "
+"""https://github.com/shopkeep/shpkpr/issues/29""",shopkeep/shpkpr,"['""bug""', '""feature""']","""closed""",no 
+"""https://github.com/pandas-dev/pandas/issues/17959""",pandas-dev/pandas,"['""Bug""', '""IO LaTeX""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/31891""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""module""', '""needs_triage""', '""support:community""']","""closed""",no 
+"""https://github.com/pantsbuild/pants/issues/6621""",pantsbuild/pants,"['""bug""']","""closed""",no 
+"""https://github.com/mitodl/micromasters/issues/2963""",mitodl/micromasters,"['""bug""']","""closed""",no 
+"""https://github.com/poldracklab/mriqc/issues/693""",poldracklab/mriqc,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/45729""",ansible/ansible,"['""affects_2.5""', '""bug""', '""cloud""', '""cloudstack""', '""module""', '""support:core""']","""closed""",nop 
+"""https://github.com/s4w3d0ff/python-poloniex/issues/125""",s4w3d0ff/python-poloniex,"['""bug""']","""closed""",no 
+"""https://github.com/nansencenter/nansat/issues/236""",nansencenter/nansat,"['""bug""', '""documentation""', '""hotfix""', '""question""', '""severe""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/28388""",ansible/ansible,"['""affects_2.3""', '""bug_report""', '""module""', '""networking""', '""support:network""']","""closed""",no 
+"""https://github.com/renisac/pdnssdk-py/issues/6""",renisac/pdnssdk-py,"['""bug""']","""closed""",no 
+"""https://github.com/agrc/warehouse/issues/20""",agrc/warehouse,"['""bug""']","""closed""",no 
+"""https://github.com/capitalone/cloud-custodian/issues/3123""",capitalone/cloud-custodian,"['""area/docs""', '""kind/bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/27118""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""module""', '""networking""', '""support:core""']","""closed""",return type 
+"""https://github.com/SUSE/azurectl/issues/99""",SUSE/azurectl,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/38320""",ansible/ansible,"['""affects_2.4""', '""bug""', '""cloud""', '""module""', '""support:community""', '""vmware""']","""closed""",no 
+"""https://github.com/bokeh/bokeh/issues/6731""",bokeh/bokeh,"['""type: bug""']","""closed""",maybe 
+"""https://github.com/ansible/ansible/issues/38040""",ansible/ansible,"['""affects_2.4""', '""bug""', '""module""', '""support:core""']","""closed""",type errors 
+"""https://github.com/streamlink/streamlink/issues/147""",streamlink/streamlink,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/18510""",ansible/ansible,"['""affects_2.2""', '""affects_2.3""', '""bug_report""', '""networking""']","""closed""",no 
+"""https://github.com/librosa/librosa/issues/788""",librosa/librosa,"['""Upstream/dependency bug""', '""enhancement""', '""management""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/29691""",ansible/ansible,"['""affects_2.1""', '""aws""', '""bug""', '""cloud""', '""module""', '""support:core""']","""closed""",this is a valid check
+"""https://github.com/saltstack/salt/issues/16508""",saltstack/salt,"['""Bug""', '""Low Severity""', '""Windows""']","""closed""",check for type 
+"""https://github.com/coala-analyzer/coala/issues/256""",coala-analyzer/coala,"['""bug""', '""easy""', '""ready for master""']","""closed""",no 
+"""https://github.com/pandas-dev/pandas/issues/19497""",pandas-dev/pandas,"['""Bug""', '""MultiIndex""']","""closed""",no 
+"""https://github.com/Sixdsn/terra-terminal/issues/95""",Sixdsn/terra-terminal,"['""Bug""']","""closed""",check default type 
+"""https://github.com/ansible/ansible/issues/25075""",ansible/ansible,"['""affects_2.3""', '""aws""', '""bug_report""', '""cloud""', '""deprecated""', '""module""', '""support:community""']","""closed""",maybe 
+"""https://github.com/ansible/ansible/issues/32238""",ansible/ansible,"['""affects_2.3""', '""affects_2.4""', '""bug""', '""c:plugins/connection/ssh""', '""support:core""']","""closed""",no 
+"""https://github.com/tomchristie/django-rest-framework/issues/3674""",tomchristie/django-rest-framework,"['""Bug""']","""closed""",no 
+"""https://github.com/ilogue/niprov/issues/135""",ilogue/niprov,"['""bug""', '""minor""']","""closed""",maybe 
+"""https://github.com/RIOT-OS/RIOT/issues/3329""",RIOT-OS/RIOT,"['""bug""', '""tests""']","""closed""",no 
+"""https://github.com/Alignak-monitoring/alignak/issues/564""",Alignak-monitoring/alignak,"['""bug""']","""closed""",",aybe "
+"""https://github.com/mitodl/lore/issues/207""",mitodl/lore,"['""bug""']","""closed""",no 
+"""https://github.com/mozilla/normandy/issues/1239""",mozilla/normandy,"['""P1""', '""bug""']","""closed""",no 
+"""https://github.com/christabor/flask_jsondash/issues/58""",christabor/flask_jsondash,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible-modules-core/issues/4318""",ansible/ansible-modules-core,"['""affects_2.2""', '""bug_report""', '""waiting_on_maintainer""']","""closed""",no 
+"""https://github.com/mitodl/micromasters/issues/3851""",mitodl/micromasters,"['""bug""']","""closed""",maybe if data is required
+"""https://github.com/Tribler/tribler/issues/875""",Tribler/tribler,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/42511""",ansible/ansible,"['""affects_2.5""', '""bug""', '""module""', '""networking""', '""support:network""', '""traceback""']","""closed""",no 
+"""https://github.com/mantidproject/mantid/issues/21374""",mantidproject/mantid,"['""Component: Framework""', '""Misc: Bug""']","""closed""",no 
+"""https://github.com/numenta/nupic/issues/1736""",numenta/nupic,"['""bug""', '""deployment""', '""P3""']","""closed""",no 
+"""https://github.com/neutrons/FastGR/issues/23""",neutrons/FastGR,"['""bug""']","""closed""",check for loclist
+"""https://github.com/swcarpentry/amy/issues/977""",swcarpentry/amy,"['""bug""', '""high priority""']","""closed""",no 
+"""https://github.com/airbnb/streamalert/issues/470""",airbnb/streamalert,"['""apps""', '""bug""']","""closed""",check for repsont etpe 
+"""https://github.com/FX31337/FX-BT-Scripts/issues/73""",FX31337/FX-BT-Scripts,"['""bug""']","""closed""",no 
+"""https://github.com/ament/ament_tools/issues/153""",ament/ament_tools,"['""bug""', '""in progress""']","""closed""",no 
+"""https://github.com/liqd/a4-meinberlin/issues/911""",liqd/a4-meinberlin,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/30688""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""support:core""']","""closed""",no 
+"""https://github.com/unt-libraries/pyuntl/issues/3""",unt-libraries/pyuntl,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/17534""",ansible/ansible,"['""affects_2.2""', '""bug_report""', '""in progress""', '""P1""']","""closed""",no 
+"""https://github.com/numba/numba/issues/3477""",numba/numba,"['""bug""']","""closed""",cgeck for type 
+"""https://github.com/cloudant/python-cloudant/issues/218""",cloudant/python-cloudant,"['""bug""']","""closed""",no 
+"""https://github.com/gem/oq-engine/issues/2491""",gem/oq-engine,"['""bug""']","""closed""",no 
+"""https://github.com/torchbox/wagtail/issues/1539""",torchbox/wagtail,"['""Bug""']","""closed""",maybe 
+"""https://github.com/ansible/ansible/issues/30700""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""c:playbook/role_include""', '""include_role""', '""module""', '""support:core""']","""closed""",no 
+"""https://github.com/faneshion/MatchZoo/issues/92""",faneshion/MatchZoo,"['""bug""', '""help wanted""', '""question""']","""closed""",no 
+"""https://github.com/gitcoinco/web/issues/2335""",gitcoinco/web,"['""bug""']","""closed""",no 
+"""https://github.com/mlsecproject/combine/issues/131""",mlsecproject/combine,"['""bug""']","""closed""",no 
+"""https://github.com/CentOS-PaaS-SIG/linchpin/issues/540""",CentOS-PaaS-SIG/linchpin,"['""bug""', '""inventory""']","""closed""",checkf or type
+"""https://github.com/ansible/ansible/issues/20379""",ansible/ansible,"['""affects_2.2""', '""bug_report""', '""c:plugins/filter""', '""support:core""']","""closed""",no 
+"""https://github.com/neuropoly/spinalcordtoolbox/issues/1963""",neuropoly/spinalcordtoolbox,"['""bug""', '""priority:HIGH""', '""sct_extract_metric""']","""closed""",no 
+"""https://github.com/mitodl/micromasters/issues/589""",mitodl/micromasters,"['""bug""', '""demo-june-17""']","""closed""",no 
+"""https://github.com/Jumpscale/go-raml/issues/147""",Jumpscale/go-raml,"['""type_bug""']","""closed""",no 
+"""https://github.com/ManageIQ/integration_tests/issues/4412""",ManageIQ/integration_tests,"['""bug""']","""closed""",no 
+"""https://github.com/google/blockly/issues/1695""",google/blockly,"['""help wanted""', '""low priority""', '""type: bug""']","""closed""",no 
+"""https://github.com/PaddlePaddle/Paddle/issues/7796""",PaddlePaddle/Paddle,"['""Bug""']","""closed""",no 
+"""https://github.com/BD2KGenomics/toil-scripts/issues/197""",BD2KGenomics/toil-scripts,"['""bug""', '""spark/adam""']","""closed""",no 
+"""https://github.com/GoogleCloudPlatform/gcloud-python/issues/513""",GoogleCloudPlatform/gcloud-python,"['""bug""', '""datastore""']","""closed""",no 
+"""https://github.com/codeforamerica/pittsburgh-purchasing-suite/issues/105""",codeforamerica/pittsburgh-purchasing-suite,"['""atlas""', '""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/27283""",ansible/ansible,"['""affects_2.3""', '""bug_report""', '""module""', '""support:core""']","""closed""",no 
+"""https://github.com/QISKit/qiskit-sdk-py/issues/391""",QISKit/qiskit-sdk-py,"['""bug""']","""closed""",no 
+"""https://github.com/missionpinball/mpf/issues/543""",missionpinball/mpf,"['""bug""']","""closed""",no 
+"""https://github.com/mkdocs/mkdocs/issues/499""",mkdocs/mkdocs,"['""Bug""']","""closed""",no 
+"""https://github.com/jupyter/nbgrader/issues/163""",jupyter/nbgrader,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/33280""",ansible/ansible,"['""affects_2.4""', '""aws""', '""bug_report""', '""cloud""', '""module""', '""support:community""']","""closed""",no 
+"""https://github.com/buildbot/buildbot/issues/3021""",buildbot/buildbot,"['""bug""', '""scheduler""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/36705""",ansible/ansible,"['""affects_2.5""', '""bug_report""', '""module""', '""networking""', '""nxos""', '""support:network""']","""closed""",no 
+"""https://github.com/tildaslash/RatticWeb/issues/229""",tildaslash/RatticWeb,"['""awaiting-further-info""', '""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/43627""",ansible/ansible,"['""affects_2.6""', '""bug""', '""module""', '""networking""', '""nxos""', '""support:network""']","""closed""",checkrc type 
+"""https://github.com/asciidisco/plugin.video.netflix/issues/438""",asciidisco/plugin.video.netflix,"['""Netflix API""', '""bug""']","""closed""",no 
+"""https://github.com/inspirehep/inspire-next/issues/2456""",inspirehep/inspire-next,"['""Status: WIP""', '""Type: Bug""']","""closed""",check for the items returnes from get 
+"""https://github.com/pantsbuild/pants/issues/5082""",pantsbuild/pants,"['""bug""', '""python""']","""closed""",no 
+"""https://github.com/project-rig/rig/issues/57""",project-rig/rig,"['""bug""']","""closed""",no 
+"""https://github.com/wong2/pick/issues/2""",wong2/pick,"['""bug""']","""closed""",no 
+"""https://github.com/hydroshare/hydroshare/issues/2397""",hydroshare/hydroshare,"['""bug""', '""Discovery""', '""High Priority""', '""User Experience""', '""User Interface""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/22465""",ansible/ansible,"['""affects_2.3""', '""bug_report""', '""module""']","""closed""",no 
+"""https://github.com/airbnb/caravel/issues/292""",airbnb/caravel,"['""bug""']","""closed""",checkf or non type 
+"""https://github.com/Microsoft/PTVS/issues/3882""",Microsoft/PTVS,"['""area:Code Intelligence""', '""bug""', '""priority:P1""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/20954""",ansible/ansible,"['""affects_2.2""', '""bug""', '""has_pr""', '""module""', '""support:community""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/14531""",ansible/ansible,"['""bug_report""']","""closed""",no 
+"""https://github.com/ufo-kit/concert/issues/382""",ufo-kit/concert,"['""bug""', '""ready""']","""closed""",no 
+"""https://github.com/mitodl/micromasters/issues/3327""",mitodl/micromasters,"['""bug""']","""closed""",no 
+"""https://github.com/apache/incubator-mxnet/issues/8303""",apache/incubator-mxnet,"['""Bug""', '""Operator""']","""closed""",no 
+"""https://github.com/pandas-dev/pandas/issues/22556""",pandas-dev/pandas,"['""Algos""', '""Bug""', '""Missing-data""']","""closed""",no 
+"""https://github.com/nvbn/thefuck/issues/807""",nvbn/thefuck,"['""bug""', '""fish""']","""closed""",no 
+"""https://github.com/pandas-dev/pandas/issues/18480""",pandas-dev/pandas,"['""Bug""', '""Difficulty Intermediate""', '""Effort Medium""', '""Missing-data""']","""closed""",no 
+"""https://github.com/bokeh/bokeh/issues/3425""",bokeh/bokeh,"['""tag: server""', '""type: bug""']","""closed""",no 
+"""https://github.com/ganga-devs/ganga/issues/536""",ganga-devs/ganga,"['""bug""', '""Core""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/44327""",ansible/ansible,"['""affects_2.6""', '""bug""', '""has_pr""', '""support:core""']","""closed""",check for seque3nce type 
+"""https://github.com/mantidproject/mantid/issues/19587""",mantidproject/mantid,"['""Component: Indirect Inelastic""', '""Misc: Bug""']","""closed""",no 
+"""https://github.com/pandas-dev/pandas/issues/23556""",pandas-dev/pandas,"['""Bug""', '""Categorical""', '""Indexing""', '""Strings""']","""closed""",chcek indexclass type 
+"""https://github.com/dseuss/mpnum/issues/2""",dseuss/mpnum,"['""bug""']","""closed""",no 
+"""https://github.com/bokeh/bokeh/issues/3834""",bokeh/bokeh,"['""type: bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/25590""",ansible/ansible,"['""affects_2.3""', '""bug_report""', '""c:plugins/cache""', '""python3""']","""closed""",check fopr class type
+"""https://github.com/miki725/django-rest-framework-bulk/issues/18""",miki725/django-rest-framework-bulk,"['""bug""']","""closed""",no 
+"""https://github.com/zenodo/zenodo/issues/825""",zenodo/zenodo,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/10742""",ansible/ansible,"['""bug_report""', '""P3""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/18526""",ansible/ansible,"['""affects_2.2""', '""affects_2.3""', '""bug_report""', '""in progress""']","""closed""",no 
+"""https://github.com/PyAr/fades/issues/279""",PyAr/fades,"['""bug""']","""closed""",no 
+"""https://github.com/phoebe-project/phoebe2/issues/296""",phoebe-project/phoebe2,"['""bug""']","""closed""",check for visible if
+"""https://github.com/metomi/rose/issues/1774""",metomi/rose,"['""bug""']","""closed""",check fore reutrn types
+"""https://github.com/ContinuumIO/odo/issues/169""",ContinuumIO/odo,"['""bug""', '""build""']","""closed""",no 
+"""https://github.com/Cog-Creators/Red-DiscordBot/issues/1477""",Cog-Creators/Red-DiscordBot,"['""V3""', '""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/27242""",ansible/ansible,"['""affects_2.3""', '""bug_report""', '""module""', '""networking""', '""support:core""']","""closed""",check for type 
+"""https://github.com/ansible/ansible/issues/25473""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""module""', '""support:community""', '""windows""']","""closed""",no 
+"""https://github.com/mkdocs/mkdocs/issues/412""",mkdocs/mkdocs,"['""Bug""', '""Easy""']","""closed""",no 
+"""https://github.com/desihub/desitarget/issues/260""",desihub/desitarget,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible-container/issues/717""",ansible/ansible-container,"['""bug""']","""closed""",no 
+"""https://github.com/QuantConnect/Lean/issues/1680""",QuantConnect/Lean,"['""Crypto""', '""bug""']","""closed""",no 
+"""https://github.com/dbcli/vcli/issues/42""",dbcli/vcli,"['""bug""']","""closed""",no 
+"""https://github.com/SoCo/SoCo/issues/475""",SoCo/SoCo,"['""Bug""']","""closed""",check for usage of playlist position 
+"""https://github.com/ansible/ansible-modules-core/issues/4933""",ansible/ansible-modules-core,"['""affects_2.1""', '""bug_report""', '""waiting_on_maintainer""']","""closed""",no 
+"""https://github.com/geometalab/osmaxx/issues/309""",geometalab/osmaxx,"['""type:bug""']","""closed""",checkf or tyep 
+"""https://github.com/ansible/ansible/issues/45002""",ansible/ansible,"['""affects_2.7""', '""bug""', '""cloud""', '""deprecated""', '""module""', '""ovirt""', '""support:community""']","""closed""",no 
+"""https://github.com/ONSdigital/eq-survey-runner/issues/1004""",ONSdigital/eq-survey-runner,"['""bug""', '""moderate (P3)""']","""closed""",no 
+"""https://github.com/ciudadanointeligente/write-it/issues/828""",ciudadanointeligente/write-it,"['""4 - Ready""', '""area:email-sending""', '""type:bug""']","""closed""",no 
+"""https://github.com/pixelated/pixelated-user-agent/issues/889""",pixelated/pixelated-user-agent,"['""bug""', '""Development""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/19673""",ansible/ansible,"['""affects_2.2""', '""bug_report""']","""closed""",no 
+"""https://github.com/flask-restful/flask-restful/issues/396""",flask-restful/flask-restful,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/41060""",ansible/ansible,"['""affects_2.5""', '""bug""', '""easyfix""', '""python3""', '""support:core""', '""traceback""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/27115""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""module""', '""networking""', '""support:core""']","""closed""",no 
+"""https://github.com/SanaMobile/sana.protocol_builder/issues/91""",SanaMobile/sana.protocol_builder,"['""bug""']","""closed""",no 
+"""https://github.com/missionpinball/mpf/issues/576""",missionpinball/mpf,"['""bug""']","""closed""",no 
+"""https://github.com/pandas-dev/pandas/issues/16957""",pandas-dev/pandas,"['""Bug""', '""Indexing""']","""closed""",no 
+"""https://github.com/jupyter/jupyterlab/issues/20""",jupyter/jupyterlab,"['""cat:Build System""', '""type:Bug""']","""closed""",no 
+"""https://github.com/postmarketOS/pmbootstrap/issues/1017""",postmarketOS/pmbootstrap,"['""bug""', '""qemu""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/40850""",ansible/ansible,"['""affects_2.7""', '""bug""', '""c:inventory/yaml""', '""support:core""']","""closed""",no 
+"""https://github.com/raiden-network/raiden/issues/2720""",raiden-network/raiden,"['""â_ ï¸è critical bug""']","""closed""",no 
+"""https://github.com/pr-omethe-us/PyKED/issues/37""",pr-omethe-us/PyKED,"['""bug""']","""closed""",maybe  
+"""https://github.com/freedomofpress/securedrop/issues/3299""",freedomofpress/securedrop,"['""bug""', '""docs""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/12916""",ansible/ansible,"['""bug_report""', '""P3""']","""closed""",no 
+"""https://github.com/poldracklab/fmriprep/issues/1090""",poldracklab/fmriprep,"['""CI""', '""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/17832""",ansible/ansible,"['""affects_2.2""', '""bug_report""', '""in progress""', '""python3""']","""closed""",no 
+"""https://github.com/inveniosoftware/invenio/issues/2351""",inveniosoftware/invenio,"['""master""', '""p_major""', '""t_bug""']","""closed""",check for null 
+"""https://github.com/cgstudiomap/cgstudiomap/issues/177""",cgstudiomap/cgstudiomap,"['""bug""']","""closed""",no 
+"""https://github.com/boundlessgeo/qgis-webappbuilder-plugin/issues/391""",boundlessgeo/qgis-webappbuilder-plugin,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/30250""",ansible/ansible,"['""affects_2.5""', '""bug_report""', '""module""', '""networking""', '""support:network""']","""closed""",dict type 
+"""https://github.com/clab/dynet/issues/869""",clab/dynet,"['""minor bug""']","""closed""",import * errors
+"""https://github.com/mesonbuild/meson/issues/1517""",mesonbuild/meson,"['""bug""', '""regression""', '""windows""']","""closed""",no 
+"""https://github.com/ansible/ansible-modules-extras/issues/2021""",ansible/ansible-modules-extras,"['""bug_report""']","""closed""",no 
+"""https://github.com/basho/riak-python-client/issues/489""",basho/riak-python-client,"['""Bug""', '""Bug Fix""', '""Enhancement""', '""JIRA: To Do""']","""closed""",no 
+"""https://github.com/dirk-thomas/vcstool/issues/43""",dirk-thomas/vcstool,"['""bug""']","""closed""",maybe  
+"""https://github.com/Ex-Mente/auxi.0/issues/109""",Ex-Mente/auxi.0,"['""bug""', '""in progress""']","""closed""",no 
+"""https://github.com/associatedpress/geomancer/issues/70""",associatedpress/geomancer,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/45030""",ansible/ansible,"['""affects_2.7""', '""bug""', '""cloud""', '""deprecated""', '""module""', '""ovirt""', '""support:community""']","""closed""",no 
+"""https://github.com/Difrex/surok/issues/9""",Difrex/surok,"['""bug""']","""closed""",no 
+"""https://github.com/CartoDB/cartoframes/issues/91""",CartoDB/cartoframes,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/39007""",ansible/ansible,"['""affects_2.5""', '""bug""', '""inventory""', '""support:core""']","""closed""",no 
+"""https://github.com/Tribler/tribler/issues/2847""",Tribler/tribler,"['""bug""']","""closed""",check for loadede data
+"""https://github.com/pandas-dev/pandas/issues/16291""",pandas-dev/pandas,"['""Bug""', '""Data IO""', '""Regression""']","""closed""",no 
+"""https://github.com/SciTools/cartopy/issues/802""",SciTools/cartopy,"['""Component: Geometry transforms""', '""Type: Bug""']","""closed""",no 
+"""https://github.com/ContinuumIO/blaze/issues/1135""",ContinuumIO/blaze,"['""bug""']","""closed""",no 
+"""https://github.com/Cypresslin/UbunTuTuMKII/issues/128""",Cypresslin/UbunTuTuMKII,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/43447""",ansible/ansible,"['""affects_2.6""', '""bug""', '""has_pr""', '""support:core""']","""closed""",no 
+"""https://github.com/SonarOpenCommunity/sonar-cxx/issues/932""",SonarOpenCommunity/sonar-cxx,"['""bug""']","""closed""",no 
+"""https://github.com/bokeh/bokeh/issues/6258""",bokeh/bokeh,"['""tag: regression""', '""type: bug""']","""closed""",no 
+"""https://github.com/CSC-IT-Center-for-Science/pouta-blueprints/issues/314""",CSC-IT-Center-for-Science/pouta-blueprints,"['""backend""', '""bug""', '""provisioning""']","""closed""",no 
+"""https://github.com/lbryio/lbry/issues/1172""",lbryio/lbry,"['""area: blobs/files""', '""area: network""', '""type: bug""']","""closed""",check for runnign 
+"""https://github.com/ansible/ansible/issues/31976""",ansible/ansible,"['""affects_2.3""', '""affects_2.4""', '""affects_2.5""', '""bug_report""', '""c:module_utils/facts""', '""support:core""']","""closed""",check for valuess
+"""https://github.com/capitalone/cloud-custodian/issues/3195""",capitalone/cloud-custodian,"['""area/core""', '""area/filters""', '""kind/bug""', '""status/1-inprogress""']","""closed""",no 
+"""https://github.com/influxdata/telegraf/issues/4526""",influxdata/telegraf,"['""area/packaging""', '""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/15085""",ansible/ansible,"['""bug_report""', '""in progress""']","""closed""",checkl for type
+"""https://github.com/ansible/ansible/issues/28493""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""module""', '""networking""', '""support:network""']","""closed""",no 
+"""https://github.com/conan-io/conan/issues/2274""",conan-io/conan,"['""bug""']","""closed""",no 
+"""https://github.com/ray-project/ray/issues/806""",ray-project/ray,"['""bug""']","""closed""",no 
+"""https://github.com/Cadasta/cadasta-platform/issues/1630""",Cadasta/cadasta-platform,"['""bug""', '""priority: low""', '""ui/ux""']","""closed""",check return type
+"""https://github.com/ansible/ansible/issues/30614""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""module""', '""support:community""']","""closed""",no 
+"""https://github.com/frictionlessdata/tabulator-py/issues/84""",frictionlessdata/tabulator-py,"['""bug""', '""review""', '""v0.6""']","""closed""",no 
+"""https://github.com/saltstack/salt/issues/15984""",saltstack/salt,"['""Bug""', '""High Severity""', '""P1""', '""Salt-Cloud""', '""Windows""']","""closed""",no 
+"""https://github.com/letsencrypt/letsencrypt/issues/2468""",letsencrypt/letsencrypt,"['""bug""', '""renewal""']","""closed""",check fo rtype 
+"""https://github.com/ImageEngine/gaffer/issues/665""",ImageEngine/gaffer,"['""component-core""', '""priority-medium""', '""type-bug""']","""closed""",check for paramter type
+"""https://github.com/ansible/ansible/issues/44968""",ansible/ansible,"['""affects_2.6""', '""bug""', '""module""', '""support:community""', '""traceback""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/22470""",ansible/ansible,"['""affects_2.3""', '""bug""', '""c:cli/""', '""c:constants""', '""support:core""', '""traceback""']","""closed""",check for path
+"""https://github.com/ContinuumIO/blaze/issues/1181""",ContinuumIO/blaze,"['""bug""', '""server""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/36398""",ansible/ansible,"['""affects_2.5""', '""bug_report""', '""module""', '""support:core""']","""closed""",check for expected inputs in fix_params2
+"""https://github.com/pgmpy/pgmpy/issues/889""",pgmpy/pgmpy,"['""bug""', '""category: Base Model""']","""closed""",check for null type
+"""https://github.com/ansible/ansible/issues/26918""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""module""', '""needs_triage""', '""networking""', '""support:core""']","""closed""",return type should be iterable
+"""https://github.com/mitmproxy/mitmproxy/issues/1476""",mitmproxy/mitmproxy,"['""bug""', '""in progress""']","""closed""",no 
+"""https://github.com/canihavesomecoffee/sample-platform/issues/27""",canihavesomecoffee/sample-platform,"['""bug""']","""closed""",no 
+"""https://github.com/pywinauto/pywinauto/issues/226""",pywinauto/pywinauto,"['""Priority-Low""', '""bug""']","""closed""",no 
+"""https://github.com/biocore/qiime/issues/1928""",biocore/qiime,"['""bug""']","""closed""",no 
+"""https://github.com/pandas-dev/pandas/issues/8554""",pandas-dev/pandas,"['""API Design""', '""Bug""', '""Error Reporting""', '""Timedelta""']","""closed""",no 
+"""https://github.com/Tribler/tribler/issues/2693""",Tribler/tribler,"['""bug""']","""closed""",no 
+"""https://github.com/ansible/ansible/issues/27715""",ansible/ansible,"['""affects_2.4""', '""bug_report""', '""c:module_utils/basic""', '""c:parsing/mod_args""', '""P2""', '""support:core""']","""closed""",check for None type
+"""https://github.com/bokeh/bokeh/issues/7116""",bokeh/bokeh,"['""tag: component: bokehjs""', '""tag: widgets""', '""type: bug""']","""closed""",no 
+"""https://github.com/pandas-dev/pandas/issues/22465""",pandas-dev/pandas,"['""Bug""', '""Timedelta""', '""Timeseries""']","""closed""",no 
