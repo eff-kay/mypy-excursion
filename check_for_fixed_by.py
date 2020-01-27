@@ -24,7 +24,7 @@ if __name__ == "__main__":
     jsonData = json.load(jsonFile)
     updatedJsonData = json.load(open('entire_corpus_python_patches.json'))
     for i, item in enumerate(jsonData):
-        if(len(updatedJsonData)<2):
+        if(len(updatedJsonData)<1):
             pull_url = check_for_fixed_by(item['url'][1:-1])
             if(pull_url):
                 if(fetch_file_names.get_file_names(pull_url)):
