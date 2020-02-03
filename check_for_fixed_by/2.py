@@ -25,11 +25,14 @@ if __name__ == "__main__":
     updatedJsonData = json.load(open('../entire_corpus_python_patches/2.json'))
     for i, item in enumerate(jsonData):
         if(len(updatedJsonData)<373742):
-            pull_url = check_for_fixed_by(item['url'][1:-1])
-            if(pull_url):
-                if(fetch_file_names.get_file_names(pull_url)):
-                    updatedJsonData.append(item)
-            print('index {} done {}, count {}'.format(i, item['url'], len(updatedJsonData)))
+            try:
+                pull_url = check_for_fixed_by(item['url'][1:-1])
+                if(pull_url):
+                    if(fetch_file_names.get_file_names(pull_url)):
+                        updatedJsonData.append(item)
+                print('index {} done {}, count {}'.format(i, item['url'], len(updatedJsonData)))
+            except:
+                print("index {} done {}, count {}".format(i, item['url'], len(updatedJsonData)))                
         else:
             break
     with open('../entire_corpus_python_patches/2.json', 'w') as w:
