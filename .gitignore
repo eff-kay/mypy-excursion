@@ -3,3 +3,10 @@
 __pycache__/
 scikit-learn
 temp
+lines_of_code/csv_files/
+lines_of_code/cloc_files/
+*.swp
+*.swo
+*.swg
+*.swk
+*.pyc
