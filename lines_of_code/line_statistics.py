@@ -4,13 +4,13 @@ import subprocess
 import pickle
 
 def create_single_pd():
-  all_files = os.listdir('csv_files')
+  all_files = os.listdir('cloc_issue_files')
   
   stat = {}
   for file in all_files[:]:
     project = file.split(".")[0]
     print("file name {}".format(file))
-    a = pd.read_csv('csv_files/'+file)
+    a = pd.read_csv('cloc_issue_files/'+file)
     stat[project] = {"Python":0, "SUM":0}
    
     python_code = a[a['language']=='Python']['code'] 
@@ -20,7 +20,7 @@ def create_single_pd():
     stat[project]['SUM'] = total
     print("{} done", project) 
   final_df = pd.DataFrame(stat)
-  with open('test.pickle', 'wb') as w:
+  with open('all-issue-project-stat-updated.p', 'wb') as w:
     pickle.dump(final_df, w)
 
 

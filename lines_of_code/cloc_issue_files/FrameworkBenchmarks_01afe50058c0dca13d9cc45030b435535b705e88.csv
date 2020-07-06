@@ -1,0 +1,74 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.84  T=2.77 s (1203.5 files/s, 73305.5 lines/s)"
+376,JSON,12,0,18189
+449,Java,4345,2146,16869
+201,C#,2205,697,10620
+349,PHP,2289,4552,9762
+151,Python,2115,1383,7865
+295,Markdown,3758,0,6341
+57,Maven,467,178,6220
+80,Go,1157,729,5720
+29,D,1163,1216,5653
+7,CSS,841,60,5122
+99,JavaScript,1402,1487,5076
+21,C,1069,488,4569
+55,C++,608,102,4065
+40,Rust,468,48,3159
+78,C/C++ Header,886,889,2959
+106,Scala,687,85,2529
+99,XML,336,184,2414
+28,Swift,464,531,2012
+20,Haskell,316,121,1850
+40,Clojure,221,125,1766
+20,F#,380,155,1730
+31,INI,2460,10098,1684
+50,Bourne Shell,290,273,1479
+84,Ruby,406,773,1467
+32,Kotlin,280,15,1370
+15,Dart,303,144,1318
+76,HTML,48,0,1132
+26,Crystal,229,92,1029
+20,MSBuild script,55,22,1008
+71,YAML,142,153,988
+16,Lua,115,54,825
+38,Elixir,122,104,634
+24,TypeScript,111,59,560
+18,Visual Basic,212,36,558
+2,Bourne Again Shell,104,71,509
+27,Erlang,144,222,465
+23,Gradle,104,14,424
+13,Groovy,91,73,417
+8,Perl,62,24,392
+13,CMake,85,8,356
+15,TOML,38,9,285
+16,ERB,27,9,278
+8,ClojureScript,41,0,244
+6,DOS Batch,75,3,226
+18,Mustache,3,0,220
+5,EJS,70,134,197
+5,SQL,32,6,172
+1,Racket,44,5,166
+4,Grails,13,0,147
+10,make,44,25,111
+4,Razor,11,0,95
+6,Handlebars,1,0,81
+6,Qt Project,8,0,77
+1,Ant,15,1,62
+4,Embedded Crystal,0,0,61
+3,Lisp,3,0,56
+2,Vala,13,0,51
+4,Nim,15,4,43
+3,DIET,4,0,37
+1,Verilog-SystemVerilog,5,0,36
+2,JSP,0,0,33
+1,XHTML,0,0,22
+1,Pascal,27,98,21
+3,Slim,1,0,20
+2,NAnt script,4,0,19
+2,Twig,2,0,18
+2,Pug,1,0,16
+1,Dockerfile,7,4,15
+1,Blade,1,0,12
+1,Smalltalk,0,0,12
+2,EEx,0,0,2
+1,ASP.NET,0,0,1
+3328,SUM,31057,27709,143941

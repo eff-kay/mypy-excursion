@@ -34,7 +34,7 @@ def get_modifications():
         commits, add, dels = pull_request_info.get_add_sub(pull_url)
         pull_diff.append((commits, add, dels))
       print("{} done".format(i))
-    with open("pull_request.pickle", 'wb') as w:
+    with open("pull_request.p", 'wb') as w:
         df = pd.DataFrame(pull_diff)
         df.columns = ['commits', 'adds', 'subs']
         pickle.dump(df, w)
@@ -57,32 +57,45 @@ def get_commits():
         df.columns = ['commits']
         pickle.dump(df, w)
 
+pwd = '/home/faizan/mypy/src/lines_of_code'
 def create_cloc():
     ucommits  = pickle.load(open('urls_pullcommits.p', 'rb'))
 
-    for i, (commit, url) in enumerate(ucommits[:2].values):
+    for i, (commit, url) in enumerate(ucommits[5:].values, 5):
+      checkout_ansible = True
       spliturl = url.split("/")
       owner, repo, issue_number = spliturl[3], spliturl[4], spliturl[-1]
       project = owner + "/"+repo 
       project_link = 'https://github.com/'+project+'.git'
+      
+      os.chdir('repositories')
+      folder_name = project.split("/")[1] 
+      if folder_name =='ansible' and os.path.isdir(folder_name):
+        checkout_ansible = False
 
-      cmd  = "git clone --depth 1 "+project_link
-      subprocess.run(cmd.split(" "))
-
-      folder_name = project.split("/")[1]
+      if not checkout_ansible:
+        os.chdir(folder_name)
+        cmd  = "git checkout devel"
+        subprocess.run(cmd.split(" "))
+        os.chdir('..')
+      else:
+        cmd  = "git clone "+project_link
+        subprocess.run(cmd.split(" "))
 
       os.chdir(folder_name)
 
       cmd = "git checkout "+commit
       subprocess.run(cmd.split(" "))
 
-      os.chdir("..")
+      os.chdir(pwd)
       
-      cmd = "cloc "+folder_name+" --csv --report-file cloc_issue_files/"+folder_name+"_"+commit+".csv"
+      cmd = "cloc repositories/"+folder_name+" --csv --report-file cloc_issue_files/"+folder_name+"_"+commit+".csv"
       subprocess.run(cmd.split(" "))
-
-      cmd = "rm -rf "+folder_name 
-      subprocess.run(cmd.split(" "))
+      
+      if not folder_name =='ansible':
+        print('project is not ansbile, remove it')
+        cmd = "rm -rf repositories/"+folder_name 
+        subprocess.run(cmd.split(" "))
 
       
       print("{} done".format(i))

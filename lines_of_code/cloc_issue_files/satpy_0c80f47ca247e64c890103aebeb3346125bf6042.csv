@@ -1,0 +1,11 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.84  T=0.61 s (366.4 files/s, 89180.5 lines/s)"
+128,Python,5791,6381,22540
+64,YAML,842,637,9354
+20,reStructuredText,1028,580,4872
+1,XML,81,17,820
+1,Windows Module Definition,106,0,808
+6,Markdown,93,0,263
+3,Cucumber,53,30,186
+1,Windows Resource File,18,0,174
+1,make,15,4,70
+225,SUM,8027,7649,39087
