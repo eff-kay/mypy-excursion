@@ -1,0 +1,63 @@
+{
+    "action":"closed",
+    "issue":
+    {
+        "url":"https://api.github.com/repos/FCO/Red/issues/9",
+        "repository_url":"https://api.github.com/repos/FCO/Red",
+        "labels_url":"https://api.github.com/repos/FCO/Red/issues/9/labels{/name}",
+        "comments_url":"https://api.github.com/repos/FCO/Red/issues/9/comments",
+        "events_url":"https://api.github.com/repos/FCO/Red/issues/9/events",
+        "html_url":"https://github.com/FCO/Red/issues/9","id":351826992,
+        "node_id":"MDU6SXNzdWUzNTE4MjY5OTI=",
+        "number":9,
+        "title":"The relationship method on a undefined method should return an alias of the relation type",
+        "user":
+        {
+            "login":"FCO","id":99834,
+            "node_id":"MDQ6VXNlcjk5ODM0",
+            "avatar_url":"https://avatars3.githubusercontent.com/u/99834?v=4","gravatar_id":"",
+            "url":"https://api.github.com/users/FCO",
+            "html_url":"https://github.com/FCO",
+            "followers_url":"https://api.github.com/users/FCO/followers",
+            "following_url":"https://api.github.com/users/FCO/following{/other_user}",
+            "gists_url":"https://api.github.com/users/FCO/gists{/gist_id}",
+            "starred_url":"https://api.github.com/users/FCO/starred{/owner}{/repo}",
+            "subscriptions_url":"https://api.github.com/users/FCO/subscriptions",
+            "organizations_url":"https://api.github.com/users/FCO/orgs",
+            "repos_url":"https://api.github.com/users/FCO/repos",
+            "events_url":"https://api.github.com/users/FCO/events{/privacy}",
+            "received_events_url":"https://api.github.com/users/FCO/received_events",
+            "type":"User",
+            "site_admin":false
+        },
+        "labels":
+            [
+                {
+                    "id":1024679014,
+                    "node_id":"MDU6TGFiZWwxMDI0Njc5MDE0",
+                    "url":"https://api.github.com/repos/FCO/Red/labels/help%20wanted",
+                    "name":"help wanted",
+                    "color":"008672",
+                    "default":true
+                },
+                {
+                    "id":1024679017,
+                    "node_id":"MDU6TGFiZWwxMDI0Njc5MDE3",
+                    "url":"https://api.github.com/repos/FCO/Red/labels/question",
+                    "name":"question",
+                    "color":"d876e3",
+                    "default":true
+                }
+            ],
+        "state":"closed",
+        "locked":false,
+        "assignee":null,
+        "assignees":[],
+        "milestone":null,
+        "comments":8,
+        "created_at":"2018-08-18T15:02:53Z",
+        "updated_at":"2019-01-01T07:12:39Z",
+        "closed_at":"2019-01-01T07:12:39Z","author_association":"OWNER",
+        "body":"```perl6\nmodel Post {\n has UInt $!author-id is referencing{ Person.id };\n has Person $.author = .^relates: $.author-id;\n}\n\nPost.author; # returns a Person alias named author\nPost.author.id; # column id from alias author from Person\n\nPost.where: { .author.name eq “FCO” };\n```"
+    }
+}
