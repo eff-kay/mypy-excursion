@@ -1,0 +1,36 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.84  T=0.78 s (1229.9 files/s, 49245.7 lines/s)"
+119,Python,2953,4655,19487
+407,NAnt script,1115,0,4170
+220,C,433,168,2433
+38,C++,104,43,449
+56,C/C++ Header,131,32,337
+3,vim script,44,75,222
+19,Vala,36,6,178
+2,SVG,2,2,164
+3,Qt,0,2,121
+8,XML,1,0,106
+3,YAML,23,5,79
+8,D,22,3,69
+9,Fortran 90,20,2,65
+7,Assembly,27,17,63
+1,Markdown,34,0,62
+9,Bourne Shell,11,2,59
+4,PO File,4,16,50
+9,Swift,7,0,39
+4,Java,8,0,36
+4,C#,6,0,29
+1,Lisp,9,7,27
+2,CMake,14,16,22
+2,Cython,7,0,18
+2,Objective C,3,0,12
+3,DOS Batch,0,0,12
+5,Windows Module Definition,1,0,11
+1,Visualforce Page,0,0,8
+3,Rust,2,0,7
+1,lex,1,0,7
+3,Vala Header,0,0,6
+1,Objective C++,3,0,6
+1,yacc,1,0,5
+1,Protocol Buffers,0,0,3
+1,Windows Resource File,1,0,3
+960,SUM,5023,5051,28365
