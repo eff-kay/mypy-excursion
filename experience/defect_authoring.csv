@@ -1,0 +1,41 @@
+id,file path,buggy commit,fix commit,type error lines,directory,issue id,project name
+4,lib/ansible/modules/network/iosxr/iosxr_system.py,ec9582f,fd6429f,262,4/ansible,22315,ansible
+16,examples/prediction/category_prediction/run.py,dce7087,aecef28,"91, 93",16/nupic,2133,nupic
+34,lendingbot.py,40b8682,00ba501,58,34/MikaLendingBot,180,MikaLendingBot
+35,lib/ansible/module_utils/facts/hardware/hpux.py,eda6a6b,3d21965,"65, 67",35/ansible,25368,ansible
+38,lib/ansible/modules/network/iosxr/iosxr_logging.py,36c6d0f,3b1f2ae,"240, 241",38/ansible,27122,ansible
+42,lib/ansible/cli/__init__.py,54931f3,74a10d7,633,42/ansible,18684,ansible
+44,blaze/compute/dask.py,ea66296,6bdeb66,"27, 39",44/blaze,1113,blaze
+47,manticore/ethereum.py,105a7d3,9f0d25c,928,47/manticore,735,manticore
+50,lib/ansible/utils/path.py,181b31e,3f12fcc,91,50/ansible,27511,ansible
+56,invenio/b2share/modules/b2deposit/restful.py,8e97d53,76cf09c,355,56/b2share,667,b2share
+61,stream_alert/rule_processor/rules_engine.py,6da3b52,1735fad,238,61/streamalert,787,streamalert
+64,lib/ansible/modules/system/interfaces_file.py,8c4f349,b7aa41b,324,64/ansible,37387,ansible
+70,pandas/io/sql.py,c588dd1d0,f4e672c,"753, 1223",70/pandas,15404,pandas
+74,lib/ansible/modules/network/ios/ios_banner.py,88ce6fd,66e29f0,116,74/ansible,22216,ansible
+84,docido_sdk/index/test.py,6f0e2a0,3046296,74,84/docido-python-sdk,9,docido-python-sdk
+87,astropy/io/fits/diff.py,52a0398,901a253,1189,87/astropy,5520,astropy
+88,shop/cascade/extensions.py,2e13fd9,e615cda,"17, 23",88/django-shop,682,django-shop
+100,lgsm/functions/gsquery.py,cc4d103,a51cdd8,21,100/LinuxGSM,964,LinuxGSM
+110,ensime_shared/editor.py,44848a4,396d5bd,360,110/ensime-vim,339,ensime-vim
+115,lib/ansible/module_utils/eos.py,512ef49,50c445c,276,115/ansible,17441,ansible
+117,lib/ansible/module_utils/aws/cloudfront_facts.py,0ee598a,93cd050,96,117/ansible,40668,ansible
+128,lib/ansible/modules/cloud/amazon/ec2_group.py,51ba115,a77b89e,792,128/ansible,36412,ansible
+144,maltrieve.py,857508a,492edab,87,144/maltrieve,141,maltrieve
+158,astropy/io/fits/util.py,454fb09,edd8090,613,158/astropy,7435,astropy
+161,lib/ansible/modules/cloud/azure/azure_rm_dnsrecordset.py,8c27ffd,eb430b2,378,161/ansible,37581,ansible
+218,lib/ansible/modules/network/iosxr/iosxr_command.py,08327fa,fd771e5,144,218/ansible,27118,ansible
+222,lib/ansible/modules/system/user.py,de8b6b5,82f6f08,"1462, 1464, 1466",222/ansible,38040,ansible
+230,terra/terminal.py,707b8aa,e8c7c93,40,230/terra-terminal,95,terra-terminal
+248,app_integrations/apps/onelogin.py,dd1f870,b1966aa,200,248/streamalert,470,streamalert
+285,inspirehep/modules/workflows/tasks/classifier.py,6b2647d,4a0045e,41,285/inspire-next,2456,inspire-next
+291,caravel/forms.py,25831f0,a3dcb0f,116,291/incubator-superset,292,incubator-superset
+318,lib/ansible/modules/network/ios/ios_facts.py,4fad156,2571fc0,318,318/ansible,27242,ansible
+325,soco/snapshot.py,db4d416,5ceb384,58,325/SoCo,475,SoCo
+327,osmaxx-py/osmaxx/job_progress/views.py,4613be1,dff393b,44,327/osmaxx,309,osmaxx
+329,app/helpers/form_helper.py,c327d61,c1c8ca2,87,329/eq-survey-runner,1004,eq-survey-runner
+363,TriblerGUI/widgets/settingspage.py,1c2dea2,1c2dea2,64,363/tribler,2847,tribler
+387,lib/ansible/utils/display.py,c1400ce,c86fd6e,62,387/ansible,22470,ansible
+391,lib/ansible/module_utils/ios.py,0b5b5ec, 9f64e44,"78, 80",391/ansible,26918,ansible
+391,lib/ansible/modules/network/ios/ios_config.py,0b5b5ec, 9f64e44,346,391/ansible,26918,ansible
+397,Tribler/Core/Libtorrent/LibtorrentMgr.py,743adf0,3bb6917,515,397/tribler,2693,tribler
