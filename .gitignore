@@ -5,6 +5,8 @@ scikit-learn
 temp
 lines_of_code/csv_files/
 lines_of_code/cloc_files/
+experience/review_count/exp_data
+experience/review_count/file_exp_data
 *.swp
 *.swo
 *.swg

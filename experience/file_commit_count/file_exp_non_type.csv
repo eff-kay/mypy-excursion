@@ -1,0 +1,505 @@
+,filename_x,bug_inducing_commit,buggy author,id,directory,project name,file_exp
+0,lib/ansible/module_utils/iosxr.py,eb1453a366403d8f95208517484f632b1da09778,Peter Sprygada,4,4/ansible,ansible,11
+1,lib/ansible/module_utils/iosxr.py,7c6916f8d1af7fa6252aee7f7af73a5250c754a8,Peter Sprygada,4,4/ansible,ansible,10
+2,lib/ansible/module_utils/iosxr.py,7c6916f8d1af7fa6252aee7f7af73a5250c754a8,Peter Sprygada,4,4/ansible,ansible,10
+3,lib/ansible/modules/network/iosxr/iosxr_system.py,4cdb266dac852859f695b0555cbe49e58343e69a,Peter Sprygada,4,4/ansible,ansible,1
+4,lib/ansible/modules/network/iosxr/iosxr_system.py,4cdb266dac852859f695b0555cbe49e58343e69a,Peter Sprygada,4,4/ansible,ansible,1
+5,lib/ansible/modules/network/iosxr/iosxr_system.py,4cdb266dac852859f695b0555cbe49e58343e69a,Peter Sprygada,4,4/ansible,ansible,1
+6,examples/prediction/category_prediction/run.py,f297d70a9bb2d36ea3585cb6e6acd95921e3d082,passiweinberger,16,16/nupic,nupic,0
+7,lendingbot.py,40b86822b71fb4d4b9c5778832dfd2bebb6d3175,Evan,34,34/MikaLendingBot,MikaLendingBot,13
+8,lendingbot.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,8
+9,modules/Configuration.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+10,modules/Configuration.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+11,modules/Configuration.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+12,modules/Configuration.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+13,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+14,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+15,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+16,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+17,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+18,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+19,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+20,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+21,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+22,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+23,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+24,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+25,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+26,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+27,modules/Lending.py,be0a400e29ac6d5b99f21ead4f50352a6b3f5d2c,Evan,34,34/MikaLendingBot,MikaLendingBot,5
+28,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+29,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+30,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+31,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+32,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+33,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+34,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+35,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+36,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+37,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+38,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+39,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+40,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+41,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+42,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+43,modules/Lending.py,2856a2153f0dc0b6f3cb5b5a5c097217d58347c5,Evan,34,34/MikaLendingBot,MikaLendingBot,6
+44,modules/Lending.py,2856a2153f0dc0b6f3cb5b5a5c097217d58347c5,Evan,34,34/MikaLendingBot,MikaLendingBot,6
+45,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+46,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+47,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+48,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+49,modules/Lending.py,be0a400e29ac6d5b99f21ead4f50352a6b3f5d2c,Evan,34,34/MikaLendingBot,MikaLendingBot,5
+50,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+51,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+52,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+53,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+54,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+55,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+56,modules/Lending.py,be0a400e29ac6d5b99f21ead4f50352a6b3f5d2c,Evan,34,34/MikaLendingBot,MikaLendingBot,5
+57,modules/Lending.py,be0a400e29ac6d5b99f21ead4f50352a6b3f5d2c,Evan,34,34/MikaLendingBot,MikaLendingBot,5
+58,modules/Lending.py,be0a400e29ac6d5b99f21ead4f50352a6b3f5d2c,Evan,34,34/MikaLendingBot,MikaLendingBot,5
+59,modules/Lending.py,be0a400e29ac6d5b99f21ead4f50352a6b3f5d2c,Evan,34,34/MikaLendingBot,MikaLendingBot,5
+60,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+61,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+62,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+63,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+64,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+65,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+66,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+67,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+68,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+69,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+70,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+71,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+72,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+73,modules/Lending.py,be0a400e29ac6d5b99f21ead4f50352a6b3f5d2c,Evan,34,34/MikaLendingBot,MikaLendingBot,5
+74,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+75,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+76,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+77,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+78,modules/Lending.py,be0a400e29ac6d5b99f21ead4f50352a6b3f5d2c,Evan,34,34/MikaLendingBot,MikaLendingBot,5
+79,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+80,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+81,modules/Lending.py,be0a400e29ac6d5b99f21ead4f50352a6b3f5d2c,Evan,34,34/MikaLendingBot,MikaLendingBot,5
+82,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+83,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+84,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+85,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+86,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+87,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+88,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+89,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+90,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+91,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+92,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+93,modules/Lending.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+94,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+95,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+96,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+97,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+98,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+99,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+100,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+101,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+102,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+103,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+104,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+105,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+106,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+107,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+108,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+109,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+110,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+111,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+112,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+113,modules/Lending.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,3
+114,modules/MarketAnalysis.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+115,modules/MarketAnalysis.py,73b68cb717fa93ef9a9280dbd382a1f8876d27f7,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+116,modules/Poloniex.py,482c5167ea1261464d4ade733a7c2bac8843b823,Mikadily,34,34/MikaLendingBot,MikaLendingBot,0
+117,modules/Poloniex.py,482c5167ea1261464d4ade733a7c2bac8843b823,Mikadily,34,34/MikaLendingBot,MikaLendingBot,0
+118,modules/Poloniex.py,482c5167ea1261464d4ade733a7c2bac8843b823,Mikadily,34,34/MikaLendingBot,MikaLendingBot,0
+119,modules/Poloniex.py,482c5167ea1261464d4ade733a7c2bac8843b823,Mikadily,34,34/MikaLendingBot,MikaLendingBot,0
+120,modules/Poloniex.py,1de19666c2e938ba2904ab80a20f17f2f1b7ce60,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+121,modules/Poloniex.py,1de19666c2e938ba2904ab80a20f17f2f1b7ce60,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+122,modules/Poloniex.py,482c5167ea1261464d4ade733a7c2bac8843b823,Mikadily,34,34/MikaLendingBot,MikaLendingBot,0
+123,modules/Poloniex.py,1de19666c2e938ba2904ab80a20f17f2f1b7ce60,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+124,modules/Poloniex.py,1de19666c2e938ba2904ab80a20f17f2f1b7ce60,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+125,modules/Poloniex.py,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,34,34/MikaLendingBot,MikaLendingBot,1
+126,modules/Poloniex.py,1de19666c2e938ba2904ab80a20f17f2f1b7ce60,Evan,34,34/MikaLendingBot,MikaLendingBot,0
+127,modules/Poloniex.py,482c5167ea1261464d4ade733a7c2bac8843b823,Mikadily,34,34/MikaLendingBot,MikaLendingBot,0
+128,modules/Poloniex.py,d6ab2fa3daab6951dbf3c43ee9875a473b786872,Evan,34,34/MikaLendingBot,MikaLendingBot,2
+129,lib/ansible/modules/network/iosxr/iosxr_logging.py,e5c2e1b7beabdd91fe0df768b8c6aa7f54c603e3,Trishna Guha,38,38/ansible,ansible,1
+130,lib/ansible/modules/network/iosxr/iosxr_logging.py,e5c2e1b7beabdd91fe0df768b8c6aa7f54c603e3,Trishna Guha,38,38/ansible,ansible,1
+131,lib/ansible/modules/network/iosxr/iosxr_logging.py,e5c2e1b7beabdd91fe0df768b8c6aa7f54c603e3,Trishna Guha,38,38/ansible,ansible,1
+132,lib/ansible/modules/network/iosxr/iosxr_logging.py,e5c2e1b7beabdd91fe0df768b8c6aa7f54c603e3,Trishna Guha,38,38/ansible,ansible,1
+133,lib/ansible/modules/network/iosxr/iosxr_logging.py,e5c2e1b7beabdd91fe0df768b8c6aa7f54c603e3,Trishna Guha,38,38/ansible,ansible,1
+134,lib/ansible/modules/network/iosxr/iosxr_logging.py,e5c2e1b7beabdd91fe0df768b8c6aa7f54c603e3,Trishna Guha,38,38/ansible,ansible,1
+135,lib/ansible/modules/network/iosxr/iosxr_logging.py,e5c2e1b7beabdd91fe0df768b8c6aa7f54c603e3,Trishna Guha,38,38/ansible,ansible,1
+136,lib/ansible/modules/network/iosxr/iosxr_logging.py,e5c2e1b7beabdd91fe0df768b8c6aa7f54c603e3,Trishna Guha,38,38/ansible,ansible,1
+137,lib/ansible/modules/network/iosxr/iosxr_logging.py,e5c2e1b7beabdd91fe0df768b8c6aa7f54c603e3,Trishna Guha,38,38/ansible,ansible,1
+138,lib/ansible/modules/network/iosxr/iosxr_logging.py,e5c2e1b7beabdd91fe0df768b8c6aa7f54c603e3,Trishna Guha,38,38/ansible,ansible,1
+139,lib/ansible/modules/network/iosxr/iosxr_logging.py,e5c2e1b7beabdd91fe0df768b8c6aa7f54c603e3,Trishna Guha,38,38/ansible,ansible,1
+140,lib/ansible/cli/__init__.py,cdefeb6d84499d86bf6fef8352b06d626c1bf4ae,Brian Coca,42,42/ansible,ansible,0
+141,lib/ansible/cli/__init__.py,cdefeb6d84499d86bf6fef8352b06d626c1bf4ae,Brian Coca,42,42/ansible,ansible,0
+142,lib/ansible/cli/__init__.py,fe91f7b506b5615c80c32623f4144f182ac83308,Brian Coca,42,42/ansible,ansible,18
+143,blaze/compute/dask.py,fcc476453bf5bf5c426ac6bdd5020713c60e1420,Blake Griffith,44,44/blaze,blaze,0
+144,blaze/compute/dask.py,fcc476453bf5bf5c426ac6bdd5020713c60e1420,Blake Griffith,44,44/blaze,blaze,0
+145,blaze/compute/dask.py,fcc476453bf5bf5c426ac6bdd5020713c60e1420,Blake Griffith,44,44/blaze,blaze,0
+146,blaze/compute/dask.py,fcc476453bf5bf5c426ac6bdd5020713c60e1420,Blake Griffith,44,44/blaze,blaze,0
+147,manticore/core/executor.py,97307906c5e4d4a89d9631628e6d58f1a19b7e82,Mark Mossberg,47,47/manticore,manticore,19
+148,manticore/core/executor.py,97307906c5e4d4a89d9631628e6d58f1a19b7e82,Mark Mossberg,47,47/manticore,manticore,19
+149,lib/ansible/cli/__init__.py,ea3914f4383a5460ea54b29bd4626f3f37f8f401,Adrian Likins,50,50/ansible,ansible,6
+150,lib/ansible/plugins/vars/host_group_vars.py,8f97aef1a365cbbbb822d6d09f96af17a076b295,Brian Coca,50,50/ansible,ansible,0
+151,lib/ansible/plugins/vars/host_group_vars.py,8f97aef1a365cbbbb822d6d09f96af17a076b295,Brian Coca,50,50/ansible,ansible,0
+152,lib/ansible/utils/color.py,a4ae0c85f184ffe1aeef7821930622884f93c13d,Yuri Khan,50,50/ansible,ansible,0
+153,lib/ansible/utils/path.py,8f97aef1a365cbbbb822d6d09f96af17a076b295,Brian Coca,50,50/ansible,ansible,8
+154,invenio/b2share/modules/b2deposit/restful.py,eaeb13db97ced9453683c132ae6c71f012cfc025,Sarah Berenji,56,56/b2share,b2share,12
+155,invenio/b2share/modules/b2deposit/restful.py,30808ad284e20d03a6eb33ec7e3d1de085fe6ff6,Emanuel Dima,56,56/b2share,b2share,0
+156,invenio/b2share/modules/b2deposit/restful.py,30808ad284e20d03a6eb33ec7e3d1de085fe6ff6,Emanuel Dima,56,56/b2share,b2share,0
+157,invenio/b2share/modules/b2deposit/restful.py,5471934be0c8ffbf373efc6a140cf082790043ba,Sarah Berenji,56,56/b2share,b2share,6
+158,invenio/b2share/modules/b2deposit/restful.py,b021da76c6c17a291a8e7e2902304dd12da2fa4f,Sarah Berenji,56,56/b2share,b2share,13
+159,invenio/b2share/modules/b2deposit/restful.py,b021da76c6c17a291a8e7e2902304dd12da2fa4f,Sarah Berenji,56,56/b2share,b2share,13
+160,invenio/b2share/modules/b2deposit/restful.py,b021da76c6c17a291a8e7e2902304dd12da2fa4f,Sarah Berenji,56,56/b2share,b2share,13
+161,invenio/b2share/modules/b2deposit/restful.py,b021da76c6c17a291a8e7e2902304dd12da2fa4f,Sarah Berenji,56,56/b2share,b2share,13
+162,invenio/b2share/modules/b2deposit/restful.py,eaeb13db97ced9453683c132ae6c71f012cfc025,Sarah Berenji,56,56/b2share,b2share,12
+163,invenio/b2share/modules/b2deposit/restful.py,eaeb13db97ced9453683c132ae6c71f012cfc025,Sarah Berenji,56,56/b2share,b2share,12
+164,invenio/b2share/modules/b2deposit/restful.py,b021da76c6c17a291a8e7e2902304dd12da2fa4f,Sarah Berenji,56,56/b2share,b2share,13
+165,invenio/b2share/modules/b2deposit/restful.py,b021da76c6c17a291a8e7e2902304dd12da2fa4f,Sarah Berenji,56,56/b2share,b2share,13
+166,invenio/b2share/modules/b2deposit/restful.py,b021da76c6c17a291a8e7e2902304dd12da2fa4f,Sarah Berenji,56,56/b2share,b2share,13
+167,invenio/b2share/modules/b2deposit/restful.py,b021da76c6c17a291a8e7e2902304dd12da2fa4f,Sarah Berenji,56,56/b2share,b2share,13
+168,invenio/b2share/modules/b2deposit/restful.py,eaeb13db97ced9453683c132ae6c71f012cfc025,Sarah Berenji,56,56/b2share,b2share,12
+169,invenio/b2share/modules/b2deposit/restful.py,eaeb13db97ced9453683c132ae6c71f012cfc025,Sarah Berenji,56,56/b2share,b2share,12
+170,invenio/b2share/modules/b2deposit/restful.py,b021da76c6c17a291a8e7e2902304dd12da2fa4f,Sarah Berenji,56,56/b2share,b2share,13
+171,invenio/b2share/modules/b2deposit/restful.py,b021da76c6c17a291a8e7e2902304dd12da2fa4f,Sarah Berenji,56,56/b2share,b2share,13
+172,invenio/b2share/modules/b2deposit/restful.py,b021da76c6c17a291a8e7e2902304dd12da2fa4f,Sarah Berenji,56,56/b2share,b2share,13
+173,invenio/b2share/modules/b2deposit/restful.py,b021da76c6c17a291a8e7e2902304dd12da2fa4f,Sarah Berenji,56,56/b2share,b2share,13
+174,invenio/b2share/modules/b2deposit/restful.py,eaeb13db97ced9453683c132ae6c71f012cfc025,Sarah Berenji,56,56/b2share,b2share,12
+175,invenio/b2share/modules/b2deposit/restful.py,eaeb13db97ced9453683c132ae6c71f012cfc025,Sarah Berenji,56,56/b2share,b2share,12
+176,invenio/b2share/modules/b2deposit/restful.py,1135542018d110406e0f0f27ab4092f7340d7a23,Sarah Berenji,56,56/b2share,b2share,5
+177,invenio/b2share/modules/b2deposit/restful.py,b021da76c6c17a291a8e7e2902304dd12da2fa4f,Sarah Berenji,56,56/b2share,b2share,13
+178,invenio/b2share/modules/b2deposit/restful.py,e2336fe1dae89f3fe4612d8ba40525d35ab75a76,Emanuel Dima,56,56/b2share,b2share,2
+179,invenio/b2share/modules/b2deposit/restful.py,e2336fe1dae89f3fe4612d8ba40525d35ab75a76,Emanuel Dima,56,56/b2share,b2share,2
+180,invenio/b2share/modules/b2deposit/restful.py,1ddd2ab0d317805b1acdc1eb1718de46fcd3367f,Emanuel Dima,56,56/b2share,b2share,3
+181,invenio/b2share/testsuite/helpers.py,5672331ad1619a2dab37d4b7800a94736093aed8,Emanuel Dima,56,56/b2share,b2share,0
+182,invenio/b2share/testsuite/helpers.py,5672331ad1619a2dab37d4b7800a94736093aed8,Emanuel Dima,56,56/b2share,b2share,0
+183,invenio/b2share/testsuite/helpers.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+184,invenio/b2share/testsuite/helpers.py,5672331ad1619a2dab37d4b7800a94736093aed8,Emanuel Dima,56,56/b2share,b2share,0
+185,invenio/b2share/testsuite/helpers.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+186,invenio/b2share/testsuite/helpers.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+187,invenio/b2share/testsuite/helpers.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+188,invenio/b2share/testsuite/helpers.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+189,invenio/b2share/testsuite/test_checksums.py,5c64a026c65e7d926b63dbb7df94a2f8ff5dc76b,Nicolas Harraudeau,56,56/b2share,b2share,1
+190,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+191,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+192,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+193,invenio/b2share/testsuite/test_checksums.py,5672331ad1619a2dab37d4b7800a94736093aed8,Emanuel Dima,56,56/b2share,b2share,0
+194,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+195,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+196,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+197,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+198,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+199,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+200,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+201,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+202,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+203,invenio/b2share/testsuite/test_checksums.py,5672331ad1619a2dab37d4b7800a94736093aed8,Emanuel Dima,56,56/b2share,b2share,0
+204,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+205,invenio/b2share/testsuite/test_checksums.py,5672331ad1619a2dab37d4b7800a94736093aed8,Emanuel Dima,56,56/b2share,b2share,0
+206,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+207,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+208,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+209,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+210,invenio/b2share/testsuite/test_checksums.py,5672331ad1619a2dab37d4b7800a94736093aed8,Emanuel Dima,56,56/b2share,b2share,0
+211,invenio/b2share/testsuite/test_checksums.py,b06e7e09adef45c6620e238a507287a95f6917f9,Nicolas Harraudeau,56,56/b2share,b2share,0
+212,invenio/b2share/testsuite/test_checksums.py,5672331ad1619a2dab37d4b7800a94736093aed8,Emanuel Dima,56,56/b2share,b2share,0
+213,invenio/b2share/testsuite/test_checksums.py,5672331ad1619a2dab37d4b7800a94736093aed8,Emanuel Dima,56,56/b2share,b2share,0
+214,invenio/b2share/testsuite/test_checksums.py,5c64a026c65e7d926b63dbb7df94a2f8ff5dc76b,Nicolas Harraudeau,56,56/b2share,b2share,1
+215,invenio/b2share/testsuite/test_checksums.py,5c64a026c65e7d926b63dbb7df94a2f8ff5dc76b,Nicolas Harraudeau,56,56/b2share,b2share,1
+216,invenio/b2share/testsuite/test_checksums.py,5c64a026c65e7d926b63dbb7df94a2f8ff5dc76b,Nicolas Harraudeau,56,56/b2share,b2share,1
+217,invenio/b2share/testsuite/test_checksums.py,5c64a026c65e7d926b63dbb7df94a2f8ff5dc76b,Nicolas Harraudeau,56,56/b2share,b2share,1
+218,invenio/b2share/testsuite/test_checksums.py,5c64a026c65e7d926b63dbb7df94a2f8ff5dc76b,Nicolas Harraudeau,56,56/b2share,b2share,1
+219,invenio/b2share/testsuite/test_checksums.py,5c64a026c65e7d926b63dbb7df94a2f8ff5dc76b,Nicolas Harraudeau,56,56/b2share,b2share,1
+220,invenio/b2share/testsuite/test_checksums.py,5c64a026c65e7d926b63dbb7df94a2f8ff5dc76b,Nicolas Harraudeau,56,56/b2share,b2share,1
+221,invenio/b2share/testsuite/test_checksums.py,5c64a026c65e7d926b63dbb7df94a2f8ff5dc76b,Nicolas Harraudeau,56,56/b2share,b2share,1
+222,invenio/b2share/testsuite/test_checksums.py,5c64a026c65e7d926b63dbb7df94a2f8ff5dc76b,Nicolas Harraudeau,56,56/b2share,b2share,1
+223,astropy/io/fits/diff.py,aaaa6fb56fdb09f93b58c13871765e4b9dd6475e,Brigitta Sipocz,87,87/astropy,astropy,3
+224,astropy/io/fits/diff.py,aaaa6fb56fdb09f93b58c13871765e4b9dd6475e,Brigitta Sipocz,87,87/astropy,astropy,3
+225,astropy/io/fits/diff.py,aaaa6fb56fdb09f93b58c13871765e4b9dd6475e,Brigitta Sipocz,87,87/astropy,astropy,3
+226,astropy/io/fits/diff.py,aaaa6fb56fdb09f93b58c13871765e4b9dd6475e,Brigitta Sipocz,87,87/astropy,astropy,3
+227,astropy/io/fits/diff.py,63c87b31506758fdf322ac191ed9a3849163514a,Erik M. Bray,87,87/astropy,astropy,0
+228,astropy/io/fits/tests/test_diff.py,9a388e2064291e686202565d77a4519990447e95,Erik M. Bray,87,87/astropy,astropy,8
+229,lgsm/functions/gsquery.py,841a65b2f7105bc174674703101cb4a24d2d9a64,Daniel Gibbs,100,100/LinuxGSM,LinuxGSM,11
+230,lgsm/functions/gsquery.py,841a65b2f7105bc174674703101cb4a24d2d9a64,Daniel Gibbs,100,100/LinuxGSM,LinuxGSM,11
+231,lgsm/functions/gsquery.py,841a65b2f7105bc174674703101cb4a24d2d9a64,Daniel Gibbs,100,100/LinuxGSM,LinuxGSM,11
+232,lgsm/functions/gsquery.py,841a65b2f7105bc174674703101cb4a24d2d9a64,Daniel Gibbs,100,100/LinuxGSM,LinuxGSM,11
+233,lgsm/functions/gsquery.py,841a65b2f7105bc174674703101cb4a24d2d9a64,Daniel Gibbs,100,100/LinuxGSM,LinuxGSM,11
+234,lgsm/functions/gsquery.py,841a65b2f7105bc174674703101cb4a24d2d9a64,Daniel Gibbs,100,100/LinuxGSM,LinuxGSM,11
+235,lgsm/functions/gsquery.py,841a65b2f7105bc174674703101cb4a24d2d9a64,Daniel Gibbs,100,100/LinuxGSM,LinuxGSM,11
+236,ensime_shared/editor.py,e60977e11b8a1c6066b49653c05febcc7c98867d,Ches Martin,110,110/ensime-vim,ensime-vim,0
+237,lib/ansible/module_utils/eos.py,5dccff29bf685bd8558eb991a4a08f3bedf7cd92,Nathaniel Case,115,115/ansible,ansible,4
+238,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+239,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+240,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+241,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+242,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+243,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+244,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+245,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+246,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+247,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+248,lib/ansible/module_utils/eos.py,5dccff29bf685bd8558eb991a4a08f3bedf7cd92,Nathaniel Case,115,115/ansible,ansible,4
+249,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+250,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+251,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+252,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+253,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+254,lib/ansible/module_utils/eos.py,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,115,115/ansible,ansible,11
+255,lib/ansible/modules/cloud/amazon/ec2_group.py,2ceff476bf17e021c2453e6fc80544827bf40f1c,Brandon Davidson,128,128/ansible,ansible,0
+256,lib/ansible/modules/cloud/amazon/ec2_group.py,2ceff476bf17e021c2453e6fc80544827bf40f1c,Brandon Davidson,128,128/ansible,ansible,0
+257,lib/ansible/modules/cloud/amazon/ec2_group.py,2ceff476bf17e021c2453e6fc80544827bf40f1c,Brandon Davidson,128,128/ansible,ansible,0
+258,lib/ansible/modules/cloud/amazon/ec2_group.py,2ceff476bf17e021c2453e6fc80544827bf40f1c,Brandon Davidson,128,128/ansible,ansible,0
+259,lib/ansible/modules/cloud/amazon/ec2_group.py,2ceff476bf17e021c2453e6fc80544827bf40f1c,Brandon Davidson,128,128/ansible,ansible,0
+260,lib/ansible/modules/cloud/amazon/ec2_group.py,2ceff476bf17e021c2453e6fc80544827bf40f1c,Brandon Davidson,128,128/ansible,ansible,0
+261,lib/ansible/modules/cloud/amazon/ec2_group.py,2ceff476bf17e021c2453e6fc80544827bf40f1c,Brandon Davidson,128,128/ansible,ansible,0
+262,lib/ansible/modules/cloud/amazon/ec2_group.py,2ceff476bf17e021c2453e6fc80544827bf40f1c,Brandon Davidson,128,128/ansible,ansible,0
+263,astropy/wcs/__init__.py,9de0135666ddf8641e783dc54e50a30c314b5c8c,Michael Droettboom,158,158/astropy,astropy,9
+264,lib/ansible/modules/cloud/azure/azure_rm_dnsrecordset.py,6b5b4651253d584420520271c865f3a64e564bc1,nitzmahone,161,161/ansible,ansible,0
+265,terra/config.py,f8a96c9be699669731788117d0e28b0d9338d553,Schneider Werner-Walter,230,230/terra-terminal,terra-terminal,3
+266,terra/config.py,f8a96c9be699669731788117d0e28b0d9338d553,Schneider Werner-Walter,230,230/terra-terminal,terra-terminal,3
+267,terra/config.py,f8a96c9be699669731788117d0e28b0d9338d553,Schneider Werner-Walter,230,230/terra-terminal,terra-terminal,3
+268,terra/config.py,f8a96c9be699669731788117d0e28b0d9338d553,Schneider Werner-Walter,230,230/terra-terminal,terra-terminal,3
+269,terra/config.py,f8a96c9be699669731788117d0e28b0d9338d553,Schneider Werner-Walter,230,230/terra-terminal,terra-terminal,3
+270,setup.py,7916662b475f81b7e2635cd283b189efc46cf2d8,Samuele Kaplun,285,285/inspire-next,inspire-next,10
+271,soco/snapshot.py,67244d3f77d438ab1f3c782a0133807c519766dc,Lawrence Akka,325,325/SoCo,SoCo,5
+272,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+273,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+274,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+275,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+276,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+277,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+278,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+279,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+280,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+281,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+282,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+283,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+284,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+285,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+286,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+287,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+288,osmaxx-py/osmaxx/job_progress/tests.py,1c688de63bdec66de90caead5ce139f71bcbdb60,Raphael Das Gupta,327,327/osmaxx,osmaxx,1
+289,lib/ansible/cli/__init__.py,c027ad943e6c17387ab75e864170e3665a8e6635,Brian Coca,387,387/ansible,ansible,55
+290,lib/ansible/cli/__init__.py,c027ad943e6c17387ab75e864170e3665a8e6635,Brian Coca,387,387/ansible,ansible,55
+291,lib/ansible/cli/__init__.py,c027ad943e6c17387ab75e864170e3665a8e6635,Brian Coca,387,387/ansible,ansible,55
+292,lib/ansible/config/manager.py,f921369445900dcc756821e40c9257d5359087af,Brian Coca,387,387/ansible,ansible,2
+293,lib/ansible/config/manager.py,f921369445900dcc756821e40c9257d5359087af,Brian Coca,387,387/ansible,ansible,2
+294,lib/ansible/config/manager.py,23b1dbacaf8a20f7147de0f67f8d6c67de2142ef,Brian Coca,387,387/ansible,ansible,11
+295,lib/ansible/config/manager.py,12c8dd189346290ddae604be54896a411ca52731,Brian Coca,387,387/ansible,ansible,10
+296,lib/ansible/config/manager.py,12c8dd189346290ddae604be54896a411ca52731,Brian Coca,387,387/ansible,ansible,10
+297,lib/ansible/config/manager.py,12c8dd189346290ddae604be54896a411ca52731,Brian Coca,387,387/ansible,ansible,10
+298,lib/ansible/config/manager.py,12c8dd189346290ddae604be54896a411ca52731,Brian Coca,387,387/ansible,ansible,10
+299,lib/ansible/config/manager.py,12c8dd189346290ddae604be54896a411ca52731,Brian Coca,387,387/ansible,ansible,10
+300,lib/ansible/config/manager.py,f921369445900dcc756821e40c9257d5359087af,Brian Coca,387,387/ansible,ansible,2
+301,lib/ansible/constants.py,f12c6e0946ce0f8bd31ffed48cb8fcf1961024af,Brian Coca,387,387/ansible,ansible,71
+302,lib/ansible/utils/display.py,0089eb81027b325551d5efef900cde841c3c093e,Brian Coca,387,387/ansible,ansible,9
+303,lib/ansible/utils/display.py,7be8079bad0308e3b66477a78e86f1f13cdce6c3,Matt Martz,387,387/ansible,ansible,0
+304,lib/ansible/module_utils/ios.py,a5b12ff2690a8fcffe9846e5f241b021864571c8,Ricardo Carrillo Cruz,391,391/ansible,ansible,1
+305,lib/ansible/module_utils/ios.py,a5b12ff2690a8fcffe9846e5f241b021864571c8,Ricardo Carrillo Cruz,391,391/ansible,ansible,1
+306,Tribler/Core/Libtorrent/LibtorrentDownloadImpl.py,f314f3f8b04ec793e7326bcfbf5840044a3f4162,Chris,397,397/tribler,tribler,0
+307,Tribler/Core/Libtorrent/LibtorrentDownloadImpl.py,66eb87f7e49e9a692ee4b2702bf88508adf016f0,Ardhi Putra Pratama H,397,397/tribler,tribler,4
+308,Tribler/Core/Libtorrent/LibtorrentMgr.py,fec8d0c433a9e0e5f1dc8a458bb5ce74b2e97fff,Martijn de Vos,397,397/tribler,tribler,9
+309,Tribler/Core/Modules/restapi/channels/channels_playlists_endpoint.py,bb0565c7da0f580f90e413cd8fe92ac16485f320,Martijn de Vos,397,397/tribler,tribler,6
+310,Tribler/Core/Modules/restapi/channels/channels_playlists_endpoint.py,bb0565c7da0f580f90e413cd8fe92ac16485f320,Martijn de Vos,397,397/tribler,tribler,6
+311,Tribler/Core/Modules/restapi/create_torrent_endpoint.py,154f603d30e7583e5837e9ac787729f329bac5f7,Martijn de Vos,397,397/tribler,tribler,1
+312,Tribler/Core/Modules/restapi/downloads_endpoint.py,221405192509c87fedd60184e28d0ec57dc1a1a1,Martijn de Vos,397,397/tribler,tribler,0
+313,Tribler/Core/Modules/restapi/downloads_endpoint.py,221405192509c87fedd60184e28d0ec57dc1a1a1,Martijn de Vos,397,397/tribler,tribler,0
+314,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+315,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+316,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+317,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+318,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+319,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+320,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+321,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+322,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+323,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+324,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+325,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+326,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+327,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+328,Tribler/Core/Modules/restapi/downloads_endpoint.py,132984d2e78a72fb46fe85bc174909d4442dee31,Martijn de Vos,397,397/tribler,tribler,9
+329,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+330,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+331,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+332,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+333,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+334,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+335,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+336,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+337,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+338,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+339,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+340,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+341,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+342,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+343,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+344,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+345,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+346,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+347,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+348,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+349,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+350,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+351,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+352,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+353,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+354,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+355,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+356,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+357,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+358,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+359,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+360,Tribler/Core/Modules/restapi/downloads_endpoint.py,f4d6c108967426f8ad0e4307b10b234247c75fcb,Martijn de Vos,397,397/tribler,tribler,7
+361,Tribler/Core/Session.py,eaea9f0015989cfb0887dadde189d7315c22c1c2,Martijn de Vos,397,397/tribler,tribler,21
+362,Tribler/Core/Session.py,eaea9f0015989cfb0887dadde189d7315c22c1c2,Martijn de Vos,397,397/tribler,tribler,21
+363,Tribler/Core/Session.py,515a3d6505a7722f4d4be7c8ce150bf0d4670cfc,Elric Milon,397,397/tribler,tribler,17
+364,Tribler/Core/Session.py,515a3d6505a7722f4d4be7c8ce150bf0d4670cfc,Elric Milon,397,397/tribler,tribler,17
+365,Tribler/Core/Session.py,515a3d6505a7722f4d4be7c8ce150bf0d4670cfc,Elric Milon,397,397/tribler,tribler,17
+366,Tribler/Core/Session.py,d1c8e032021deb3bdf04120eb542cabf6e1341c4,Lipu Fei,397,397/tribler,tribler,37
+367,Tribler/Core/Session.py,d1c8e032021deb3bdf04120eb542cabf6e1341c4,Lipu Fei,397,397/tribler,tribler,37
+368,Tribler/Core/Session.py,d1c8e032021deb3bdf04120eb542cabf6e1341c4,Lipu Fei,397,397/tribler,tribler,37
+369,Tribler/Core/TorrentChecker/session.py,6a5c86ae42427734af87baf9934d0be2b9b127f4,Martijn de Vos,397,397/tribler,tribler,1
+370,Tribler/Core/Utilities/torrent_utils.py,7904412aa52f184c60638bb09633ae527c3d788f,Paul Brussee,397,397/tribler,tribler,0
+371,Tribler/Core/Utilities/torrent_utils.py,f6978792ef12a433235352d4eaa8611a1ad7054f,Martijn de Vos,397,397/tribler,tribler,4
+372,Tribler/Core/Utilities/torrent_utils.py,f6978792ef12a433235352d4eaa8611a1ad7054f,Martijn de Vos,397,397/tribler,tribler,4
+373,Tribler/Core/Utilities/torrent_utils.py,fe6301fb595a7a8ad7524cac6feaef1ca7c11b81,Martijn de Vos,397,397/tribler,tribler,0
+374,Tribler/Core/Utilities/torrent_utils.py,fe6301fb595a7a8ad7524cac6feaef1ca7c11b81,Martijn de Vos,397,397/tribler,tribler,0
+375,Tribler/Core/Utilities/torrent_utils.py,fe6301fb595a7a8ad7524cac6feaef1ca7c11b81,Martijn de Vos,397,397/tribler,tribler,0
+376,Tribler/Test/Core/Libtorrent/test_libtorrent_download_impl.py,6722779ce45634dbb45fb5c323472ecfc64bba86,Martijn de Vos,397,397/tribler,tribler,12
+377,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,77a183badc59ca38cf1c98d5bb7856f8b5eb2bd8,Martijn de Vos,397,397/tribler,tribler,7
+378,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,77a183badc59ca38cf1c98d5bb7856f8b5eb2bd8,Martijn de Vos,397,397/tribler,tribler,7
+379,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,77a183badc59ca38cf1c98d5bb7856f8b5eb2bd8,Martijn de Vos,397,397/tribler,tribler,7
+380,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+381,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+382,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+383,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+384,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+385,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+386,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+387,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+388,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+389,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+390,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+391,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+392,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+393,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+394,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+395,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+396,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+397,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+398,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+399,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+400,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+401,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+402,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+403,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+404,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+405,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+406,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+407,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+408,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+409,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+410,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+411,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+412,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+413,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+414,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+415,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+416,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+417,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+418,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+419,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+420,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+421,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+422,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+423,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+424,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+425,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+426,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+427,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+428,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+429,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+430,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+431,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+432,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,c03d74c9a8520ac83da2e5d87a0d4f94e3507853,Martijn de Vos,397,397/tribler,tribler,11
+433,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+434,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+435,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+436,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+437,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+438,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,c03d74c9a8520ac83da2e5d87a0d4f94e3507853,Martijn de Vos,397,397/tribler,tribler,11
+439,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+440,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+441,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+442,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+443,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+444,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+445,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+446,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+447,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+448,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+449,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+450,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+451,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+452,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+453,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+454,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+455,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+456,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+457,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+458,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+459,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+460,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+461,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+462,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+463,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+464,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+465,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+466,Tribler/Test/Core/Modules/RestApi/test_downloads_endpoint.py,8bf66440e0670c67a3c803cbbe702895a495de38,Martijn de Vos,397,397/tribler,tribler,5
+467,Tribler/Test/Core/TFTP/test_tftp_handler.py,8b84df8f38590ecb4a9d3d8ce87d81a28c1c5316,Martijn de Vos,397,397/tribler,tribler,0
+468,Tribler/Test/Core/TFTP/test_tftp_handler.py,8b84df8f38590ecb4a9d3d8ce87d81a28c1c5316,Martijn de Vos,397,397/tribler,tribler,0
+469,Tribler/Test/Core/test_torrent_utils.py,61d655a86e376eb2c2041d061d00b03c8ea94295,Martijn de Vos,397,397/tribler,tribler,0
+470,Tribler/Test/Core/test_torrent_utils.py,61d655a86e376eb2c2041d061d00b03c8ea94295,Martijn de Vos,397,397/tribler,tribler,0
+471,Tribler/Test/Core/test_torrent_utils.py,4f1f0f0a574a86af90af2017d7ba9a08dbdb764e,Martijn de Vos,397,397/tribler,tribler,1
+472,Tribler/Test/Core/test_torrent_utils.py,61d655a86e376eb2c2041d061d00b03c8ea94295,Martijn de Vos,397,397/tribler,tribler,0
+473,Tribler/Test/Core/test_torrent_utils.py,7904412aa52f184c60638bb09633ae527c3d788f,Paul Brussee,397,397/tribler,tribler,0
+474,Tribler/Test/Core/test_torrent_utils.py,91c7c9306b62a579ebbf2a6c94fd02ea9d5a3580,Martijn de Vos,397,397/tribler,tribler,3
+475,Tribler/Test/Core/test_torrent_utils.py,91c7c9306b62a579ebbf2a6c94fd02ea9d5a3580,Martijn de Vos,397,397/tribler,tribler,3
+476,TriblerGUI/core_manager.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+477,TriblerGUI/core_manager.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+478,TriblerGUI/core_manager.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+479,TriblerGUI/core_manager.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+480,TriblerGUI/dialogs/feedbackdialog.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+481,TriblerGUI/tribler_window.py,1397c6c1cad85a8961b6146bb73313ed72d38c90,Martijn de Vos,397,397/tribler,tribler,3
+482,TriblerGUI/tribler_window.py,1397c6c1cad85a8961b6146bb73313ed72d38c90,Martijn de Vos,397,397/tribler,tribler,3
+483,TriblerGUI/tribler_window.py,1397c6c1cad85a8961b6146bb73313ed72d38c90,Martijn de Vos,397,397/tribler,tribler,3
+484,TriblerGUI/tribler_window.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+485,TriblerGUI/tribler_window.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+486,TriblerGUI/widgets/channel_torrent_list_item.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+487,TriblerGUI/widgets/channel_torrent_list_item.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+488,TriblerGUI/widgets/channel_torrent_list_item.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+489,TriblerGUI/widgets/channel_torrent_list_item.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+490,TriblerGUI/widgets/createtorrentpage.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+491,TriblerGUI/widgets/downloadprogressbar.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+492,TriblerGUI/widgets/downloadprogressbar.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+493,TriblerGUI/widgets/downloadprogressbar.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+494,TriblerGUI/widgets/downloadwidgetitem.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+495,TriblerGUI/widgets/downloadwidgetitem.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+496,TriblerGUI/widgets/downloadwidgetitem.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+497,TriblerGUI/widgets/downloadwidgetitem.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+498,TriblerGUI/widgets/editchannelpage.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+499,TriblerGUI/widgets/editchannelpage.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+500,TriblerGUI/widgets/editchannelpage.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+501,TriblerGUI/widgets/editchannelpage.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+502,TriblerGUI/widgets/editchannelpage.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0
+503,TriblerGUI/widgets/manageplaylistpage.py,a5bc66e859ee117fa12ff3153176c912c3a6d1c7,Martijn de Vos,397,397/tribler,tribler,0

@@ -1,0 +1,83 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+FIL_TYPE_CONVERTED	review_count/convert_csv.py	/^FIL_TYPE_CONVERTED = 'data\/filtered_type_converted.csv'$/;"	v
+GO_BACK_TO_WORKING_DIRECTORY	utils/GitCommander.py	/^    GO_BACK_TO_WORKING_DIRECTORY = 'cd $CURR_DIR'$/;"	v	class:GitCommander
+GitCommander	commit_count/non_type_experience.py	/^from GitCommander import GitCommander$/;"	i
+GitCommander	commit_count/type_experience.py	/^from GitCommander import GitCommander$/;"	i
+GitCommander	utils/GitCommander.py	/^class GitCommander:$/;"	c
+GitCommander	utils/utils.py	/^from GitCommander import GitCommander$/;"	i
+ISSUE_LIST	review_count/convert_csv.py	/^ISSUE_LIST='data\/issue_list.txt'$/;"	v
+NON_TYPE_CSV	review_count/convert_csv.py	/^NON_TYPE_CSV = 'data\/non_type.csv'$/;"	v
+REPOS	review_count/get_type_reviewer_count.py	/^REPOS = os.environ['REPOS']$/;"	v
+TYPE_CSV	review_count/convert_csv.py	/^TYPE_CSV = 'data\/type.csv'$/;"	v
+TYPE_DEFECTS	review_count/get_type_reviewer_count.py	/^TYPE_DEFECTS = 'data\/filtered_type_converted.csv'$/;"	v
+author	review_count/get_type_reviewer_count.py	/^    author = df.iloc[36]['buggy author']$/;"	v
+checkout	utils/GitCommander.py	/^    def checkout(self, commit):$/;"	m	class:GitCommander
+cliffsDelta	cliffsDelta.py	/^def cliffsDelta(lst1, lst2, **dull):$/;"	f
+cliffsDelta	commit_count/non_type_experience.py	/^import cliffsDelta$/;"	i
+cliffsDelta	commit_count/type_experience.py	/^import cliffsDelta$/;"	i
+cliffsDelta	utils/utils.py	/^import cliffsDelta$/;"	i
+commit_id	review_count/get_type_reviewer_count.py	/^    commit_id = df.iloc[36]['buggy commit']$/;"	v
+create_nontype_df	commit_count/non_type_experience.py	/^def create_nontype_df(repodir):$/;"	f
+create_type_df	commit_count/type_experience.py	/^def create_type_df(repodir):$/;"	f
+datetime	commit_count/non_type_experience.py	/^from datetime import datetime$/;"	i
+datetime	commit_count/type_experience.py	/^from datetime import datetime$/;"	i
+datetime	utils/utils.py	/^from datetime import datetime$/;"	i
+df	review_count/get_type_reviewer_count.py	/^    df = pd.read_csv(TYPE_DEFECTS) $/;"	v
+diff	commit_count/gitdiff.py	/^def diff(folder_name, needColor):$/;"	f
+division	cliffsDelta.py	/^from __future__ import division$/;"	i
+format_issue_list	review_count/convert_csv.py	/^def format_issue_list(issue_list):$/;"	f
+getHead	utils/GitCommander.py	/^    def getHead(self):$/;"	m	class:GitCommander
+getModifiedLinesFromGitDiff	utils/GitCommander.py	/^    def getModifiedLinesFromGitDiff(self, headCommit, commitToCompare):$/;"	m	class:GitCommander
+get_blame_stats	commit_count/non_type_experience.py	/^def get_blame_stats(commit, lineMap, count=0):$/;"	f
+get_line_changes_for_py_files	commit_count/non_type_experience.py	/^def get_line_changes_for_py_files(lines):$/;"	f
+get_pull_request_for_commit	review_count/get_type_reviewer_count.py	/^def get_pull_request_for_commit(owner,repo, commit_id):$/;"	f
+get_reviews	review_count/get_type_reviewer_count.py	/^def get_reviews(owner, repo, commit_id, author):$/;"	f
+gitBlame	utils/GitCommander.py	/^    def gitBlame(self, file, startLine, endLine, commit = None):$/;"	m	class:GitCommander
+gitLogInline	utils/GitCommander.py	/^    def gitLogInline(self, commit = 'HEAD', author = None):$/;"	m	class:GitCommander
+github_api_baseurl	review_count/get_type_reviewer_count.py	/^github_api_baseurl= "https:\/\/api.github.com"$/;"	v
+headers	review_count/get_type_reviewer_count.py	/^headers = {$/;"	v
+lookup_size	cliffsDelta.py	/^def lookup_size(delta: float, dull: dict) -> str:$/;"	f
+needsColor	commit_count/gitdiff.py	/^needsColor = True$/;"	v
+os	commit_count/gitdiff.py	/^import os$/;"	i
+os	commit_count/non_type_experience.py	/^import os$/;"	i
+os	commit_count/type_experience.py	/^import os$/;"	i
+os	review_count/get_type_reviewer_count.py	/^import os$/;"	i
+os	utils/utils.py	/^import os$/;"	i
+owner	review_count/get_type_reviewer_count.py	/^    owner = df.iloc[36].owner$/;"	v
+parseGitBlame	utils/GitCommander.py	/^    def parseGitBlame(self, text):$/;"	m	class:GitCommander
+path	commit_count/gitdiff.py	/^path = "."$/;"	v
+pd	commit_count/non_type_experience.py	/^import pandas as pd$/;"	i
+pd	commit_count/type_experience.py	/^import pandas as pd$/;"	i
+pd	review_count/convert_csv.py	/^import pandas as pd$/;"	i
+pd	review_count/get_type_reviewer_count.py	/^import pandas as pd$/;"	i
+pd	utils/utils.py	/^import pandas as pd$/;"	i
+prepare_type_csv	review_count/convert_csv.py	/^def prepare_type_csv(type_csv, issue_list):$/;"	f
+process_commit_blame	commit_count/non_type_experience.py	/^def process_commit_blame(defect):$/;"	f
+process_defect	commit_count/non_type_experience.py	/^from utils import process_defect$/;"	i
+process_defect	utils/utils.py	/^def process_defect(commit, file, start_line, end_line):$/;"	f
+reduce	commit_count/non_type_experience.py	/^from functools import reduce$/;"	i
+reduce	commit_count/type_experience.py	/^from functools import reduce$/;"	i
+reduce	utils/GitCommander.py	/^from functools import reduce$/;"	i
+reduce	utils/utils.py	/^from functools import reduce$/;"	i
+relativedelta	commit_count/non_type_experience.py	/^from dateutil.relativedelta import relativedelta$/;"	i
+relativedelta	commit_count/type_experience.py	/^from dateutil.relativedelta import relativedelta$/;"	i
+relativedelta	utils/utils.py	/^from dateutil.relativedelta import relativedelta$/;"	i
+repo	review_count/get_type_reviewer_count.py	/^    repo = df.iloc[36].repo$/;"	v
+repodir	commit_count/non_type_experience.py	/^    repodir = os.environ['REPOS']$/;"	v
+repodir	commit_count/type_experience.py	/^    repodir = os.environ['REPOS']$/;"	v
+requests	review_count/get_type_reviewer_count.py	/^import requests$/;"	i
+rjson	review_count/get_type_reviewer_count.py	/^    rjson = get_reviews(owner, repo, commit_id, author) $/;"	v
+runs	cliffsDelta.py	/^def runs(lst):$/;"	f
+subprocess	commit_count/non_type_experience.py	/^import subprocess$/;"	i
+subprocess	commit_count/type_experience.py	/^import subprocess$/;"	i
+subprocess	utils/GitCommander.py	/^import subprocess$/;"	i
+subprocess	utils/utils.py	/^import subprocess$/;"	i
+timeDeltaMonth	utils/utils.py	/^def timeDeltaMonth(time1, time2):$/;"	f
+tqdm	commit_count/non_type_experience.py	/^from tqdm.notebook import tqdm$/;"	i
+tqdm	commit_count/type_experience.py	/^from tqdm.notebook import tqdm$/;"	i
+tqdm	utils/utils.py	/^from tqdm.notebook import tqdm$/;"	i

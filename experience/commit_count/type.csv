@@ -1,0 +1,50 @@
+,line number,filename,commit id,issue id,buggy commit,buggy author,author experience,project progress,timedelta (month)
+0,262,lib/ansible/modules/network/iosxr/iosxr_system.py,ec9582f,22315,4cdb266dac852859f695b0555cbe49e58343e69a,Peter Sprygada,558,28007,42
+1,91,examples/prediction/category_prediction/run.py,dce7087,2133,91691d2ce5260feed57583d252a8a55a8f846859,Matthew Taylor,1002,4153,23
+2,93,examples/prediction/category_prediction/run.py,dce7087,2133,91691d2ce5260feed57583d252a8a55a8f846859,Matthew Taylor,1002,4153,23
+3,58,lendingbot.py,40b8682,180,951f9b6276c2e31d7179199b3247f74ea9f2cc7a,Evan,39,145,6
+4,65,lib/ansible/module_utils/facts/hardware/hpux.py,eda6a6b,25368,45a9f967749ec68e2077fe1d1d32dd37660ab376,Adrian Likins,154,30481,13
+5,67,lib/ansible/module_utils/facts/hardware/hpux.py,eda6a6b,25368,45a9f967749ec68e2077fe1d1d32dd37660ab376,Adrian Likins,154,30481,13
+6,240,lib/ansible/modules/network/iosxr/iosxr_logging.py,36c6d0f,27122,e5c2e1b7beabdd91fe0df768b8c6aa7f54c603e3,Trishna Guha,50,31271,2
+7,241,lib/ansible/modules/network/iosxr/iosxr_logging.py,36c6d0f,27122,e5c2e1b7beabdd91fe0df768b8c6aa7f54c603e3,Trishna Guha,50,31271,2
+8,633,lib/ansible/cli/__init__.py,54931f3,18684,fe91f7b506b5615c80c32623f4144f182ac83308,Brian Coca,1020,14881,34
+9,27,blaze/compute/dask.py,ea66296,1113,fcc476453bf5bf5c426ac6bdd5020713c60e1420,Blake Griffith,23,5790,0
+10,39,blaze/compute/dask.py,ea66296,1113,fcc476453bf5bf5c426ac6bdd5020713c60e1420,Blake Griffith,23,5790,0
+11,928,manticore/ethereum.py,105a7d3,735,97307906c5e4d4a89d9631628e6d58f1a19b7e82,Mark Mossberg,133,361,11
+12,91,lib/ansible/utils/path.py,181b31e,27511,8f97aef1a365cbbbb822d6d09f96af17a076b295,Brian Coca,3300,30311,56
+13,355,invenio/b2share/modules/b2deposit/restful.py,8e97d53,667,e2336fe1dae89f3fe4612d8ba40525d35ab75a76,Emanuel Dima,116,11862,11
+14,238,stream_alert/rule_processor/rules_engine.py,6da3b52,787,ef027eb0ec83d9597c6c3675683b731853c31f37,Jack Naglieri,514,1568,13
+15,324,lib/ansible/modules/system/interfaces_file.py,8c4f349,37387,42039cd4368e074fd5c902c104e6b217015d3b51,Roman Belyakovsky,2,31659,11
+16,753,pandas/io/sql.py,c588dd1d0,15404,df48524c5339d7f0c26b653504d25e3cdf2f3a84,Artemy Kolchinsky,3,10407,0
+17,1223,pandas/io/sql.py,c588dd1d0,15404,337b94d3f5be6d9beca2386f7d0188dfc3e8fa08,Artemy Kolchinsky,10,11195,5
+18,116,lib/ansible/modules/network/ios/ios_banner.py,88ce6fd,22216,98c98125f06f6903bf8f12ab76b5794c72a1f37c,Ricardo Carrillo Cruz,40,29448,3
+19,74,docido_sdk/index/test.py,6f0e2a0,9,7d5e8eb77ae1483553bfa51a1ad990ec29a0737d,Tristan Carel,129,147,3
+20,1189,astropy/io/fits/diff.py,52a0398,5520,aaaa6fb56fdb09f93b58c13871765e4b9dd6475e,Brigitta Sipocz,213,16368,32
+21,17,shop/cascade/extensions.py,2e13fd9,682,9b4e12f5e77b5e3f8b9a301452eb80ec14bf7de7,Jacob Rief,2744,4181,69
+22,23,shop/cascade/extensions.py,2e13fd9,682,9b4e12f5e77b5e3f8b9a301452eb80ec14bf7de7,Jacob Rief,2744,4181,69
+23,21,lgsm/functions/gsquery.py,cc4d103,964,841a65b2f7105bc174674703101cb4a24d2d9a64,Daniel Gibbs,1222,1537,31
+24,360,ensime_shared/editor.py,44848a4,339,e60977e11b8a1c6066b49653c05febcc7c98867d,Ches Martin,31,506,4
+25,276,lib/ansible/module_utils/eos.py,512ef49,17441,b5bbac29e54076507dad81bc6b2b37ee045571be,Peter Sprygada,201,20231,37
+26,96,lib/ansible/module_utils/aws/cloudfront_facts.py,0ee598a,40668,8d733dbdf0eb7bbda5f3a783e893d71a3a35a646,Will Thames,190,35160,65
+27,792,lib/ansible/modules/cloud/amazon/ec2_group.py,51ba115,36412,2ceff476bf17e021c2453e6fc80544827bf40f1c,Brandon Davidson,5,32324,3
+28,87,maltrieve.py,857508a,141,7a8b889f197127db6c4658d60f301bb825d938c5,Kyle Maxwell,266,297,26
+29,613,astropy/io/fits/util.py,454fb09,7435,e0236766aa295e46eaff27746a5c549107888492,Stephen Portillo,0,22544,0
+30,378,lib/ansible/modules/cloud/azure/azure_rm_dnsrecordset.py,8c27ffd,37581,6b5b4651253d584420520271c865f3a64e564bc1,nitzmahone,242,32964,26
+31,144,lib/ansible/modules/network/iosxr/iosxr_command.py,08327fa,27118,671184adc45023c625d6e94e8142f76a0a621e6e,Peter Sprygada,368,23208,41
+32,1462,lib/ansible/modules/system/user.py,de8b6b5,38040,8010b7f9808adb4c8e4d861a54f323c559e18787,Lars Engels,0,24277,0
+33,1464,lib/ansible/modules/system/user.py,de8b6b5,38040,8010b7f9808adb4c8e4d861a54f323c559e18787,Lars Engels,0,24277,0
+34,1466,lib/ansible/modules/system/user.py,de8b6b5,38040,8010b7f9808adb4c8e4d861a54f323c559e18787,Lars Engels,0,24277,0
+35,40,terra/terminal.py,707b8aa,95,67dd6521f97e11c86ccae30e9cfc2dba2974f02f,Schneider Werner-Walter,14,235,13
+36,200,app_integrations/apps/onelogin.py,dd1f870,470,d7585ad801c111e7889550950afd13dc33a760f9,javier_marcos,11,980,0
+37,41,inspirehep/modules/workflows/tasks/classifier.py,6b2647d,2456,7916662b475f81b7e2635cd283b189efc46cf2d8,Samuele Kaplun,247,3385,22
+38,116,caravel/forms.py,25831f0,292,be6b2fe5560829e5b0bae2fb6613a8a32dcf4f69,Maxime Beauchemin,561,688,8
+39,318,lib/ansible/modules/network/ios/ios_facts.py,4fad156,27242,a522c2d99fd25c15aee89927e3de4ca86f88b66e,Peter Sprygada,410,23743,41
+40,58,soco/snapshot.py,db4d416,475,cc226b433cfd286d8b706eeef5a357e4d9070cd4,robwebset,36,595,3
+41,44,osmaxx-py/osmaxx/job_progress/views.py,4613be1,309,53ecc8fafb1341caf3c6076984fe85d486eb2020,Nicola Jordan,496,1241,7
+42,87,app/helpers/form_helper.py,c327d61,1004,c327d61a74e24bdd1596edc3d116ef95d0692b50,Ben Jefferies,168,2325,6
+43,64,TriblerGUI/widgets/settingspage.py,1c2dea2,2847,0121e07d998a7c88f0a2db638ea4b4c9598cb8fd,Martijn de Vos,846,12576,16
+44,62,lib/ansible/utils/display.py,c1400ce,22470,66104191d182aedd7b76f4a1b839c448f97c3ffe,Brian Coca,1964,17836,40
+45,78,lib/ansible/module_utils/ios.py,0b5b5ec,26918,1abc73da6862c32959377884df037491ca1e98a6,Ricardo Carrillo Cruz,48,29579,3
+46,80,lib/ansible/module_utils/ios.py,0b5b5ec,26918,1abc73da6862c32959377884df037491ca1e98a6,Ricardo Carrillo Cruz,48,29579,3
+47,346,lib/ansible/modules/network/ios/ios_config.py,0b5b5ec,26918,0b6f0e6c0d95e271cf4173b28ece4a5e58902f9c,Peter Sprygada,723,31122,48
+48,515,Tribler/Core/Libtorrent/LibtorrentMgr.py,743adf0,2693,9142357fa80ea97dca92130229dd3a013a822e58,Martijn de Vos,484,12161,11
