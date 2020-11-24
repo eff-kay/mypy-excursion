@@ -22,13 +22,18 @@ def combine_dfs(c_path, s_path, l_path):
     csl.to_csv('counts-starts-loc.csv')
     
 
-    
-
+def print_markdown(file):
+    df = pd.read_csv(open(file))
+    df = df[['a' ,'c','s','l']]
+    df.columns = ['projects', 'contributors', 'stars', 'loc']
+    print(df.to_markdown())
 
 if __name__=='__main__':
     c_path = 'contributor_count.csv'
     s_path = 'star_count.csv'
     l_path = 'loc_count.csv'
 
-    combine_dfs(c_path, s_path, l_path)
+    file = 'counts-starts-loc.csv'
+    #combine_dfs(c_path, s_path, l_path)
+    print_markdown(file)
     print('done')
