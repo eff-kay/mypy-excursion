@@ -4,7 +4,7 @@ The paper conducts an empirical evaluation of 400 defects in 211 unique Python p
 
 ### Unique Projects
 
-|     | clone_links                                                       |   contributors |   stars |     loc |
+|     | repo_links                                                       |   contributors |   stars |     loc |
 |----:|:------------------------------------------------------------------|---------------:|--------:|--------:|
 |   0 | https://github.com/secdev/scapy.git                               |            344 |    5742 |  113440 |
 |   1 | https://github.com/ansible/ansible.git                            |           5846 |   45667 |  279233 |
