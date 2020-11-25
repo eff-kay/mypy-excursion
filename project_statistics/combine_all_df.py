@@ -26,7 +26,15 @@ def print_markdown(file):
     df = pd.read_csv(open(file))
     df = df[['a' ,'c','s','l']]
     df.columns = ['projects', 'contributors', 'stars', 'loc']
-    print(df.to_markdown())
+    il = pd.read_csv(open('il_links.csv'))
+    il = il[['owner', 'project name', 'clone_links']]
+    il['projects'] = il['owner']+'-'+il['project name']
+
+    c = pd.merge(df, il, on=['projects'], how='left')
+    c = c.drop_duplicates(subset=['clone_links'])
+    c = c.reset_index()
+    c = c[['clone_links', 'contributors', 'stars', 'loc']]
+    print(c.to_markdown())
 
 if __name__=='__main__':
     c_path = 'contributor_count.csv'
