@@ -216,11 +216,6 @@ The paper conducts an empirical evaluation of 400 defects in 211 unique Python p
 | 207 | https://github.com/mitmproxy/mitmproxy.git                        |            385 |   20644 |   86786 |
 | 208 | https://github.com/canihavesomecoffee/sample-platform.git         |             30 |      18 |   41424 |
 | 209 | https://github.com/biocore/qiime.git                              |             86 |     269 |   94132 |
-| 210 | https://github.com/agrc/warehouse.git                             |             1 |     0 |   114000 |
-
-
-
-
 
 
 ### Repository Structure
