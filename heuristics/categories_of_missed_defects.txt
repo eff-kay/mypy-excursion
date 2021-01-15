@@ -15,7 +15,6 @@ UserDocChange, is a type of ValueChange
 		Docs created from comments
 
 
-
 DependencyUpgrade
 	MissingDependencyError
 		Requirements file changes
@@ -50,6 +49,11 @@ TestFileChanges:
  
 Value Change:
 	Change in the value of a variable
+
+
+	Regex error
+		Regex has a special type
+		Is a type of ValueChange
  
 TypeConversion:
 	Increase the precision of type
@@ -59,8 +63,6 @@ Feature:
 	Add an entirely new feature that didn’t exist before
 	Not a bug
   
-
-
 ConfigurationChange
 	Changes in python file used for configuration
 		Could be a dict or a list object
@@ -69,11 +71,8 @@ ConfigurationChange
 		Usually in the form of a huge dict element
 		Add a new configuration or modify the old one
 
-
-
 AddNewTests:
 	A feature type, new tests that are accompanied with the relevant change set
- 
  
 SpecError
 	Something that was expected apriori, but is not implemented
@@ -92,13 +91,12 @@ SpecError
 
 	NOTE: If the new block is adding a feature, then tis a feature and a refactoring. 
  
-PredError
-	Just conditions
-	Wrong condition, predicates
-	Some precondition is false
-	None type has no attribute of this kind
-	Remove default condition
-
+	PredError
+		Just conditions
+		Wrong condition, predicates
+		Some precondition is false
+		None type has no attribute of this kind
+		Remove default condition
 
 UIError
 	Printing
@@ -112,9 +110,6 @@ APIErrors
 	
 
 
-Regex error
-	Regex has a special type
-	Is a type of ValueChange
 
 
 

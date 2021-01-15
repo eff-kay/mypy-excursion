@@ -1,0 +1,44 @@
+1. SPEC CHANGES:
+Specification changes include changes that modify the semantics of the code to conform to a certain specification. It also serves as a catch-all for issues not classifiable other categories.
+    
+    1.1 Branch Changes:
+            Branch changes represent changes to the body of a control block.
+    1.2 Pred Changes:
+            Predicate changes represent changes to the conditions of a control block.
+    1.3 & New Class or Method:
+            This category includes defects that require a new class or a method as a fix.
+  
+2. VALUE CHANGES:
+Value changes represent changes that modify the values of an object rather than the semantics of the code.
+
+    2.1 UI Changes: 
+        This category includes changes made to the outputs intended for a user. This also includes changes to the console outputs and debug logs.
+    
+    2.2 & Type Conversion:
+        Type conversion include value changes where the type of a \python{} object was either upgraded or downgraded to resolve an issue.
+  
+3. DEPENDENCY CHANGES:
+This category includes changes related to \python{} module imports.
+
+    3.1 Missing Dependency
+        These changes are made to include a missing module.
+    3.2 Dependency Upgrade
+        This category represents changes made to upgrade \python{} modules.
+
+4. ARTEFACT CHANGES:
+    These changes are made to artefact files that accompany the codebase.
+
+    4.1. User-Doc Changes:
+        User-Doc Changes include changes in the documentation, readme files or code comments.
+
+    4.2. Test File Changes:
+        This category includes changes made to test files.
+
+        4.2.1 New Tests:
+            This category represents changes where entire new tests were added (either as new classes or new methods).
+
+        4.2.2. Other Modifications:
+            This category includes small modifications in test files that are not part of the \textit{Add New Tests} bucket.
+
+5. NON-PYTHON CHANGES: 
+    This category include defects for which majority of the changes are in non-Python files. For example, in a sample defect in a \textit{Django} project, majority of the changes in the pull request might be related to HTML, CSS or Javascript files.
