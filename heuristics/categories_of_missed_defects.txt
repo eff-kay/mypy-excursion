@@ -1,0 +1,119 @@
+NOTE: both the issue report and the commits are important
+
+
+NewClassorMethod
+	NewClass or Method is added without removing any previous code base
+	Must not be new tests
+		If new tests then it’s AddNewTests
+ 
+
+UserDocChange, is a type of ValueChange
+	Docs created from comments
+	Or readme files
+
+	UserDocError:
+		Docs created from comments
+
+
+DependencyUpgrade
+	MissingDependencyError
+		Requirements file changes
+		Or missing import module
+		Or remove some module
+		File missing
+
+
+Refactorings:
+	Renaming, re-ordering
+		Adding spaces, tabs
+	Variable renaming
+	New code added and then used later
+	New modules imported and then used later
+	Refactoring
+		Rewrite something that utilizes different path in codes and different features
+
+
+
+NonPythonErrors:
+	Meaningful errors are non python errors
+	Most of the errors are in non-python files
+		More than 50%
+
+	We don’t even look at non-python files, all of these are categorized into non-python file changes
+
+TestFileChanges:
+	Of all the python files changes, most files are test files
+	There is a significant change in the test files, but not new test added
+	If the Test file changes is the only change in the pull request then looking into the pull request for other categorizations. 
+
+ 
+Value Change:
+	Change in the value of a variable
+
+
+	Regex error
+		Regex has a special type
+		Is a type of ValueChange
+ 
+TypeConversion:
+	Increase the precision of type
+	Convert a variable into another type
+ 
+Feature:
+	Add an entirely new feature that didn’t exist before
+	Not a bug
+  
+ConfigurationChange
+	Changes in python file used for configuration
+		Could be a dict or a list object
+	Majority of the changes are to modify the configurations
+	Configurations can be within python files,
+		Usually in the form of a huge dict element
+		Add a new configuration or modify the old one
+
+AddNewTests:
+	A feature type, new tests that are accompanied with the relevant change set
+ 
+SpecError
+	Something that was expected apriori, but is not implemented
+	The Fix is, adding that required feature to resolve the bug
+ 
+	BranchError
+		Add a Try catch
+		Remove a try catch
+		If the path changes then it’s a branch error
+		Check for certain types
+		Something crashes at runtime
+			Initialization problem
+		Run something before other thing
+		Try catch
+		Conditional assignments
+
+	NOTE: If the new block is adding a feature, then tis a feature and a refactoring. 
+ 
+	PredError
+		Just conditions
+		Wrong condition, predicates
+		Some precondition is false
+		None type has no attribute of this kind
+		Remove default condition
+
+UIError
+	Printing
+	system outs
+	UI changes, All logger changes are UI errors
+
+ 
+APIErrors
+	Deprecated calls
+	All wrong usage of apis
+	
+
+
+
+
+
+NewLinesAdded
+	If lines are added and not removed, its not a new classs, not a new method and the no variable is created that is used later on.
+
+	LinesRemoved (this is not used as newlines added and removed all mean the same thing)

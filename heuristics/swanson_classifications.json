@@ -1,0 +1,15 @@
+// heuristics for classifiying defects into Swanson categories
+[
+    {
+        "category_of_change":"Corrective",
+        "heuristic": "Issues requiring corrective fixes to the code  that caused a crash or unwanted behavior at some point."    
+    },
+    {
+        "category_of_change":"Adaptive",
+        "heuristic": "Code changes as a result of changes in some external environment."    
+    },
+    {
+        "category_of_change":"Perfective",
+        "heuristic": "Code cleanups, refactorings, new feature implementations, performance improvements, documentation changes and API updates. "    
+    }
+]
