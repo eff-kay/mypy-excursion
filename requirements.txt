@@ -13,7 +13,7 @@ ipython==7.10.0
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.15.1
-Jinja2==2.10.3
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 mypy==0.740
 mypy-extensions==0.4.3
