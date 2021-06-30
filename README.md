@@ -1,4 +1,4 @@
-This project contains all the scripts used to conduct the experiments presented in the TSE papar titled "An Empirical Study of Type-Related Defects in Python Projects"
+This project contains all the scripts used to conduct the experiments presented in the TSE papar titled ["An Empirical Study of Type-Related Defects in Python Projects"](https://doi.org/10.1109/TSE.2021.3082068)
 
 The paper conducts an empirical evaluation of 400 defects in 211 unique Python projects. The following table represents the github owner-repo links, the number of contributors, the stars and the size of the project in LOC.
 
