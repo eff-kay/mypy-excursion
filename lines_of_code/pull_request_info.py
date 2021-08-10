@@ -3,12 +3,6 @@ import fnmatch
 import json
 
 github_api_baseurl= "https://api.github.com"
-headers = {
-    'Accept': "application/vnd.github.inertia-preview+json",
-    'Authorization': "Basic ZWZmLWtheTpNaXRtM2RpQGxAQg==",
-    'Cache-Control': "no-cache",
-    'Postman-Token': "a110ce8e-4db8-bb0e-a5bf-a5998a5b0aca"
-    }
 
 def get_commit_sha(prurl):
     spliturl = prurl.split("/")

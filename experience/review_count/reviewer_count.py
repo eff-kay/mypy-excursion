@@ -21,12 +21,6 @@ REVIEWER_DB = 'exp_data'
 github_api_baseurl= "https://api.github.com"
 github_api_graphql = "https://api.github.com/graphql"
 
-headers = {
-    'Accept': "application/vnd.github.groot-preview+json",
-    'Authorization': "Token 8e1de798669cad2bb25ff213d71d1f849dd2913d",
-    'Cache-Control': "ncache",
-    'Postman-Token': "a110ce8e-4db8-bb0e-a5bf-a5998a5b0aca"
-}
 
 def create_csvs_from_reviewer_db(project_name):
     dfs=[]
