@@ -5,7 +5,7 @@ bs4==0.0.1
 certifi==2019.11.28
 chardet==3.0.4
 Click==7.0
-dask==1.0.0
+dask==2021.10.0
 decorator==4.4.1
 Flask==1.1.1
 idna==2.8
