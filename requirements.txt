@@ -9,7 +9,7 @@ dask==1.0.0
 decorator==4.4.1
 Flask==1.1.1
 idna==2.8
-ipython==7.10.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.15.1
